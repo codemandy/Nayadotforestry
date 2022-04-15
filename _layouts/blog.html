@@ -2,31 +2,25 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
-
-{% include page-intro.html %}
-
-{{ content }}
 
 <section>
 
-  <h3>Posts</h3>
+  <!-- <ul>
+    {% for post in site.posts %}
+      <li>
+        <h4><a href="{{ post.url }}" class="post-url">{{ post.title }}</a></h4>
+        {{ post.excerpt | strip_newlines | truncate: 180 }}
+      </li>
+    {% endfor %}
+  </ul> -->
 
   <ul>
     {% for post in site.posts %}
-    {% assign author = site.data.authors[post.author] %}
-      <li>
-        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-        <time datetime="{{ post.date }}">
-          <small>
-            <strong>{{ post.date | date_to_string }}</strong>
-            {% if author %}
-              by {{ author.name }}
-            {% endif %}
-          </small>
-        </time>
-        {{ post.excerpt | strip_newlines | truncate: 180 }}
-      </li>
+    <li>
+      <img src="{{- post.image | relative_url -}}" alt="" class="post-featured-images">
+
+      <h4><a href="{{ post.url }}" class="post-url">{{ post.title }}</a></h4>
+    </li>
     {% endfor %}
   </ul>
 
