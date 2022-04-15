@@ -25,8 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body tekst", name: "body", widget: "markdown", required: false}
-      - { label: 'Credits', name: 'credits', widget: 'string' }
-      - {label: "Categories", name: "categories", widget: "string", required: true}
+      - {label: "Credits", name: "credits", widget: "string" }
     # PAGES
   - name: "page"
     label: "Page"
