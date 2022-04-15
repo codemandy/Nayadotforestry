@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-{% assign author = site.data.authors[page.author] %}
+
+<div class="post-header">
+<img src="{{- page.image | relative_url -}}" alt="" class="post-featured-images">
+</div>
 
 <h2>{{ page.title }}</h2>
 
