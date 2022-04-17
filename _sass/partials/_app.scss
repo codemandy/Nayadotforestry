@@ -43,6 +43,22 @@ header {
     justify-content: flex-start;
     margin-left: 20px;
 }
+
+.nav-2 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-3 {
+  margin-left: 1rem;
+}
+
+.nav-4 {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 1rem;
+}
+
 .nav-5 {
   display: flex;
     justify-content: flex-end;
@@ -75,7 +91,7 @@ header > nav {
   ul {
     // flexbox is better than grid for distributing an unknown qty of children
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr 2fr;
+    grid-template-columns: 3fr 1fr 1fr 1fr 3fr;
     gap: 0px 0px;
 
 
