@@ -22,7 +22,7 @@ body {
   font-weight: $base-font-weight;
   font-style: normal;
 	font-variant: normal;
-  font-size: 1.6rem; // this is equivalent to 16px
+  font-size: 1.4rem; // this is equivalent to 16px (1.6rem)
 }
 
 // h1,h2,h3,h4,h5,h6,p,figure,time {
@@ -93,4 +93,8 @@ header > h1 {
   @media screen and (min-width: $screen-sm-min) {
     // text-align: left;
   }
+}
+.navi a {
+  font-size: 20px;
+  line-height: 25.64px
 }
