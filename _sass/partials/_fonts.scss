@@ -1,19 +1,21 @@
 // add font-face or font import declarations here
 @font-face {
   font-family: "LifeT";
-  src: font-url('LifeT/LifeT.ttf');
+  src: url('../assets/fonts/LifeT/LifeT.ttf');
   font-weight: 400;
   font-style: normal;
 }
+
 @font-face {
   font-family: "LifeT Italic";
-  src: font-url('LifeT/LifeT Italic.ttf');
+  src: url('../assets/fonts/LifeT/LifeT Italic.ttf');
   font-weight: 400;
   font-style: italic;
 }
+
 @font-face {
   font-family: "LifeT Bold";
-  src: font-url('LifeT/LifeT Bold.ttf');
+  src: url('../assets/fonts/LifeT/LifeT Bold.ttf');
   font-weight: 700;
   font-style: bold;
 }
