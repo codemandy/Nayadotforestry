@@ -9,7 +9,7 @@ layout: default
     <li>
       <img src="{{- post.image | relative_url -}}" alt="" class="post-featured-images">
 
-      <h4><a href="{{ post.url }}" class="post-url">{{ post.title }}</a></h4>
+      <h4><a id="post-headers" href="{{ post.url }}" class="post-url">{{ post.title }}</a></h4>
     </li>
     {% endfor %}
   </ul>

@@ -25,16 +25,16 @@ body {
   font-size: 1.6rem; // this is equivalent to 16px
 }
 
-h1,h2,h3,h4,h5,h6,p,figure,time {
-  padding-bottom: 2rem;
-}
+// h1,h2,h3,h4,h5,h6,p,figure,time {
+//   padding-bottom: 2rem;
+// }
 
-h1,h2,h3,h4,h5,h6,figure {
-  p + &,
-  figure + & {
-    padding-top: 2rem;
-  }
-}
+// h1,h2,h3,h4,h5,h6,figure {
+//   p + &,
+//   figure + & {
+//     padding-top: 2rem;
+//   }
+// }
 
 
 p.intro {
@@ -53,7 +53,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h2 {
   font-size: 3.2rem;
-  padding-bottom: 4rem;
+  // padding-bottom: 4rem;
 }
 
 h3 {
@@ -91,6 +91,6 @@ header > h1 {
   line-height: $base-line-height;
   font-weight: $base-font-weight;
   @media screen and (min-width: $screen-sm-min) {
-    text-align: left;
+    // text-align: left;
   }
 }
