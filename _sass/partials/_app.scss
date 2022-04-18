@@ -30,18 +30,19 @@ body > * {
 // it is also a grid for the logo and nav
 header {
   position: fixed;
+  height: 4rem;
   width: 100%;
   grid-column: full;
   display: grid;
   display: flex;
+
   @media screen and (min-width: $screen-sm-min) {
   }
 }
 
 .nav-1 {
   display: flex;
-    justify-content: flex-start;
-    margin-left: 20px;
+  justify-content: flex-start;
 }
 
 .nav-2 {
@@ -87,6 +88,9 @@ header > nav {
   @media screen and (min-width: $screen-sm-min) {
     width: 100%;
     background-color: $grey-bg-color;
+    padding: 15px 20px 10px 20px;
+
+
   }
 
 

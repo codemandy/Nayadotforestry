@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<main>
 <div class="blog-container">
     {% for post in site.posts %}
     <section id="{{ post.title }}">
@@ -15,20 +15,4 @@ layout: default
     </section>
     {% endfor %}
   </div>
-
-    <!-- {% include footer.html %} -->
-
-
-
-
-  <!-- <div>
-  </div>
-  <ul>
-    {% for post in site.posts %}
-    <li>
-      <img src="{{- post.image | relative_url -}}" alt="" class="post-featured-images">
-
-      <h4><a id="post-headers" href="{{ post.url }}" class="post-url">{{ post.title }}</a></h4>
-    </li>
-    {% endfor %}
-  </ul> -->
+</main>
