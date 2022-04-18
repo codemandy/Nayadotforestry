@@ -86,7 +86,7 @@ header {
 
 img {
 	display: block;
-  height: calc(90vh - 45px);
+  height: calc(90vh - 56px);
 }
 
 
@@ -166,6 +166,7 @@ main {
 
   overflow-y: scroll;
   scroll-snap-align: end;
+  scroll-padding-top: 56px;
 }
 
 
