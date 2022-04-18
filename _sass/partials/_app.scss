@@ -7,6 +7,7 @@
 
 // the body element is our primary layout grid
 body {
+  background-color: $grey-bg-color;
   color: $text-color;
   height: 100vh;
   display: grid;
@@ -28,9 +29,11 @@ body > * {
 // header, the first grid row
 // it is also a grid for the logo and nav
 header {
-  margin-top: 15px;
+  position: fixed;
+  width: 100%;
   grid-column: full;
   display: grid;
+  display: flex;
   @media screen and (min-width: $screen-sm-min) {
   }
 }
@@ -83,6 +86,8 @@ header {
 // main menu, is a grid item / NAV CONTROLL
 header > nav {
   @media screen and (min-width: $screen-sm-min) {
+    width: 100%;
+    background-color: $grey-bg-color;
   }
 
 
@@ -91,7 +96,6 @@ header > nav {
     display: grid;
     grid-template-columns: 3fr 1fr 1fr 1fr 3fr;
     gap: 0px 0px;
-
 
 
 
@@ -131,8 +135,28 @@ main {
   main {
     width: 70vw;
     max-width: none;
+
+  .blog-container {
+    margin-top: 3rem;
+  }
+
+  .blog-title {
+    margin-top: 1.5rem;
+    margin-bottom: 5rem;
+
+
+    a {
+      color: $title-color;
+      line-height: 25.64px;
+    }
+  }
+
+
   }
 }
+
+
+
 
 // blog posts list
 html[data-current="blog"] main > section {
