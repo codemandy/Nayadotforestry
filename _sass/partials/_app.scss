@@ -195,22 +195,7 @@ nav[aria-label="Adjacent Posts"] {
   }
 }
 
-// contact form
-html[data-current="contact"] main > form {
-  display: grid;
-  label {
-    display: none;
-  }
-  input,
-  textarea {
-    width: 100%;
-    padding: 1rem;
-    margin-bottom: 2rem;
-  }
-  button {
-    width: 100%;
-  }
-}
+
 
 // reset CSS Grid fallbacks when they aren't required
 @supports (display: grid) {
