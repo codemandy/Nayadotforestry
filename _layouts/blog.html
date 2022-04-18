@@ -3,7 +3,25 @@ layout: default
 ---
 
 
-<section>
+
+    {% for post in site.posts %}
+    <section id="{{ post.title }}">
+      <div class="blog-container"></div>
+      <img src="{{- post.image | relative_url -}}" alt="" class="post-featured-images">
+
+      <div class="blog-title"><a href="{{ post.url }}" class="post-url">{{ post.title }}</a></div>
+
+    </section>
+    {% endfor %}
+
+
+    <!-- {% include footer.html %} -->
+
+
+
+
+  <!-- <div>
+  </div>
   <ul>
     {% for post in site.posts %}
     <li>
@@ -12,6 +30,4 @@ layout: default
       <h4><a id="post-headers" href="{{ post.url }}" class="post-url">{{ post.title }}</a></h4>
     </li>
     {% endfor %}
-  </ul>
-
-</section>
+  </ul> -->
