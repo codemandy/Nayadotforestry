@@ -131,8 +131,27 @@ main {
   main {
     width: 70vw;
     max-width: none;
+
+  .blog-container {
+  }
+
+  .blog-title {
+    margin-top: 1.5rem;
+    margin-bottom: 5rem;
+
+
+    a {
+      color: $title-color;
+      line-height: 25.64px;
+    }
+  }
+
+
   }
 }
+
+
+
 
 // blog posts list
 html[data-current="blog"] main > section {
