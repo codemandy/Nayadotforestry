@@ -87,6 +87,7 @@ header {
 img {
 	display: block;
   height: calc(90vh - 56px);
+  margin-top: 2rem;
 }
 
 
@@ -132,6 +133,7 @@ main {
   margin-right: auto;
   margin-left: auto;
   display: grid;
+  margin-top: 4rem;
   @media screen and (min-width: $screen-md-min) {
 
   }
@@ -156,10 +158,6 @@ main {
 
   }
 
-
-  .blog-container {
-    margin-top: 6rem;
-  }
 
 
 .blog-title {
