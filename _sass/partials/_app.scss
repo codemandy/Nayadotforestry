@@ -30,18 +30,19 @@ body > * {
 // it is also a grid for the logo and nav
 header {
   position: fixed;
+  height: 4rem;
   width: 100%;
   grid-column: full;
   display: grid;
   display: flex;
+
   @media screen and (min-width: $screen-sm-min) {
   }
 }
 
 .nav-1 {
   display: flex;
-    justify-content: flex-start;
-    margin-left: 20px;
+  justify-content: flex-start;
 }
 
 .nav-2 {
@@ -74,7 +75,6 @@ header {
     text-decoration: none;
     border: 0;
     @media screen and (min-width: $screen-sm-min) {
-      // padding: 1rem;
 
     }
 
@@ -88,6 +88,9 @@ header > nav {
   @media screen and (min-width: $screen-sm-min) {
     width: 100%;
     background-color: $grey-bg-color;
+    padding: 15px 20px 10px 20px;
+
+
   }
 
 
@@ -122,8 +125,6 @@ main {
   margin-right: auto;
   margin-left: auto;
   display: grid;
-  padding-top: 3rem;
-  padding-bottom: 8rem;
   @media screen and (min-width: $screen-md-min) {
 
   }
@@ -137,7 +138,7 @@ main {
     max-width: none;
 
   .blog-container {
-    margin-top: 3rem;
+    margin-top: 6rem;
   }
 
   .blog-title {
