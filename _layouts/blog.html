@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<main>
 <div class="blog-container">
     {% for post in site.posts %}
-    <section id="{{ post.title }}">
-      <a href="{{ post.url }}" class="post-url">
-        <img src="{{- post.image | relative_url -}}" alt="" class="post-featured-images">
-      </a>
+      <section class="{{ post.title }}">
+        <div class="section-container">
+        <a href="{{ post.url }}" class="post-url">
+          <img src="{{- post.image | relative_url -}}" alt="" class="post-featured-images">
+        </a>
+      </div>
 
-      <div class="blog-title"><a href="{{ post.url }}" class="post-url">{{ post.title }}</a></div>
+        <div class="blog-title"><a href="{{ post.url }}" class="post-url">{{ post.title }}</a></div>
 
-    </section>
+      </section>
     {% endfor %}
-  </div>
-</main>
+</div>

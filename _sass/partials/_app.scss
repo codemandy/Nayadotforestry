@@ -137,8 +137,8 @@ main {
     width: 70vw;
     max-width: none;
 
-  .blog-container {
-    margin-top: 6rem;
+
+
   }
 
   .blog-title {
@@ -152,10 +152,24 @@ main {
     }
   }
 
-
   }
-}
 
+
+  .blog-container {
+    margin-top: 6rem;
+
+    // .section-container {
+    //   height: calc(100vh - var(--header-height));
+    //   padding: 0;
+    //   margin: 0;
+    // }
+  }
+
+
+.blog-title {
+  overflow-y: scroll;
+  scroll-snap-align: end;
+}
 
 
 

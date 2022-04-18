@@ -3,6 +3,7 @@
 // set font sizes in percent on the root element
 
 html {
+  scroll-snap-type: y mandatory;
   font-size: $base-font-size;
   @media screen and (min-width: $screen-xs-min) {
     font-size: $base-font-size * 1.2;
