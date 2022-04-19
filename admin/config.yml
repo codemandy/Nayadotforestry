@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body tekst", name: "body", widget: "markdown", required: false}
-      - {label: "Credits", name: "credits", widget: "string" }
+      - {label: "Credits", name: "credits", widget: "markdown" }
     # PAGES
   - name: "page"
     label: "Page"
@@ -40,17 +40,3 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-
-
-  - name: 'about'
-    label: 'About'
-    editor:
-      preview: false
-    files:
-      - label: 'About Page'
-        name: 'about'
-        file: 'about.md'
-        fields:
-          - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
-          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
