@@ -112,7 +112,7 @@ header {
 }
 
 img {
-	display: block;
+
   height: calc(90vh - 56px);
   margin-top: 2rem;
 }
@@ -258,20 +258,35 @@ footer {
 
 
 .post-container {
-  width: 50vh;
   margin: 0 auto;
 
-@media screen and (min-width: $screen-sm-min) {
-  width: 75vh;
-  margin: 0 auto;
-}
-}
+  img {
+    max-height: 34vh;
+    display: grid;
+    grid-column: main;
 
-.page-title {
+  }
 
-}
 
-.page-content {
-  padding: 2rem;
+  @media screen and (min-width: $screen-sm-min) {
+    width: 40vw;
+    margin: 0 auto;
+
+    img {
+      max-height: 60vh;
+      display: grid;
+      grid-column: main;
+    }
+
+    .page-content {
+      display: grid;
+
+    }
+
+    .page-title {
+      margin-top: 4rem;
+
+    }
+  }
 
 }
