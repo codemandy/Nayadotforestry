@@ -76,6 +76,7 @@ header {
   .nav-3 {
     display: flex;
     margin-left: 1rem;
+    justify-content: center;
   }
 
   .nav-4 {
@@ -272,6 +273,7 @@ footer {
     width: 40vw;
     margin: 0 auto;
 
+
     img {
       max-height: 60vh;
       display: grid;
@@ -280,6 +282,7 @@ footer {
 
     .page-content {
       display: grid;
+      font-style: italic;
 
     }
 
@@ -287,6 +290,17 @@ footer {
       margin-top: 4rem;
 
     }
+
   }
 
+}
+
+.post-container-about {
+  @media screen and (min-width: $screen-sm-min) {
+      width: 60vw;
+      margin: auto auto;
+      display: flex;
+      justify-content: center;
+      margin-top: 8rem;
+    }
 }
