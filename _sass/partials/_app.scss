@@ -53,48 +53,49 @@ header {
       margin-right: 20px;
   }
 
-  @media screen and (min-width: $screen-sm-min) {
-  position: fixed;
-  height: 4rem;
-  width: 100%;
-  grid-column: full;
-  display: grid;
-  display: flex;
 
-
-
-  .nav-1 {
+    //NAVIGATION LARGE SCREENS
+    @media screen and (min-width: $screen-sm-min) {
+    position: fixed;
+    height: 4rem;
+    width: 100%;
+    grid-column: full;
+    display: grid;
     display: flex;
-    justify-content: flex-start;
-  }
 
-  .nav-2 {
-    display: flex;
-    justify-content: flex-end;
-  }
 
-  .nav-3 {
-    display: flex;
-    margin-left: 1rem;
-    justify-content: center;
-  }
 
-  .nav-4 {
-    display: flex;
-    justify-content: flex-start;
-    margin-left: 1rem;
-  }
+    .nav-1 {
+      display: flex;
+      justify-content: flex-start;
+    }
 
-  .nav-5 {
-    display: flex;
+    .nav-2 {
+      display: flex;
       justify-content: flex-end;
-      margin-right: 20px;
+    }
+
+    .nav-3 {
+      display: flex;
+      margin-left: 1rem;
+      justify-content: center;
+    }
+
+    .nav-4 {
+      display: flex;
+      justify-content: flex-start;
+      margin-left: 1rem;
+    }
+
+    .nav-5 {
+      display: flex;
+        justify-content: flex-end;
+        margin-right: 20px;
+    }
   }
-
 }
 
-}
-//edit title of posts
+//title of posts
   a,
   a:visited {
     color: $link-color;
@@ -112,11 +113,15 @@ header {
   }
 }
 
+//IMAGES
+
+
 img {
 
   height: calc(90vh - 56px);
   margin-top: 2rem;
 }
+
 
 
 // main menu, is a grid item / NAV CONTROLL
@@ -133,17 +138,11 @@ header > nav {
     background-color: $grey-bg-color;
     padding: 15px 20px 10px 20px;
 
-
-
-
-
     ul {
       // flexbox is better than grid for distributing an unknown qty of children
       display: grid;
       grid-template-columns: 3fr 1fr 1fr 1fr 3fr;
       gap: 0px 0px;
-
-
 
 
       li {
@@ -156,10 +155,6 @@ header > nav {
     }
   }
 }
-
-
-
-
 
 // our main content wrapper, the width scales with font size
 main {
@@ -194,9 +189,8 @@ main {
   }
 
 
-
+//Blog post scroll
 .blog-title {
-
   overflow-y: scroll;
   scroll-snap-align: end;
   scroll-padding-top: 56px;
@@ -244,6 +238,8 @@ nav[aria-label="Adjacent Posts"] {
   }
 }
 
+
+//FOOTER
 footer {
   grid-column: full;
   display: grid;
@@ -256,6 +252,8 @@ footer {
     grid-column: main;
   }
 }
+
+
 
 
 .post-container {
@@ -303,4 +301,9 @@ footer {
       justify-content: center;
       margin-top: 10rem;
     }
+}
+
+
+.active {
+  color: $link-active-color;
 }
