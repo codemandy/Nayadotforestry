@@ -12,9 +12,9 @@
   }
 
 
-  // @media screen and (min-width: $screen-sm-min) {
-  //   display: block;
-  // }
+  @media screen and (min-width: $screen-sm-min) {
+    display: block;
+  }
 
  img {
   max-height: calc(50vh - 56px);
