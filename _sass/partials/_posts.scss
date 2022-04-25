@@ -1,39 +1,45 @@
 // POST --------------------------->
 
 .post-container {
-  margin: 0 auto;
+
 
   img {
-    max-height: 34vh;
+    max-width: 60vh;
     display: grid;
     grid-column: main;
+    @media screen and (min-width: $screen-md-min) {
+      max-height: 70vh;
+      max-width: none;
+    }
 
   }
 
+  .page-title {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
 
-  @media screen and (min-width: $screen-sm-min) {
-    // width: 40vw;
-    // margin: 0 auto;
-
-
-    // img {
-    //   max-height: 60vh;
-    //   display: grid;
-    //   grid-column: main;
-    // }
-
-    // .page-content {
-    //   display: grid;
-    //   font-style: italic;
-
-    // }
-
-    // .page-title {
-    //   margin-top: 4rem;
-
-    // }
-
+    @media screen and (min-width: $screen-sm-min) {
+    padding-top: 7rem;
+    }
   }
+
+  .page-content {
+    padding: 0 2rem;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 2rem;
+    @media screen and (min-width: $screen-sm-min) {
+      max-width: 58vw;
+      margin: 2rem auto;
+    }
+    @media screen and (min-width: $screen-md-min) {
+      max-width: 40vw;
+      margin: 0 auto;
+    }
+  }
+
+
 
 }
 
@@ -41,9 +47,8 @@
 .post-featured-images img{
   @media screen and (min-width: $screen-md-min) {
     // min-height: calc(90vh - 56px);
-    margin-top: 2rem;
+    margin-top: 4rem;
     max-width: 100%;
-
   }
 }
 
