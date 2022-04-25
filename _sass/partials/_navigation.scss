@@ -33,9 +33,11 @@ header {
     position: fixed;
     min-height: 4rem;
     width: 100%;
-    grid-column: full;
-    display: grid;
+    // grid-column: full;
+    // display: grid;
     display: flex;
+    padding-bottom: 0;
+
 
 
 
@@ -77,13 +79,13 @@ header > nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0px 0px;
+    padding-top: 1rem;
 
   }
 
   @media screen and (min-width: $screen-sm-min) {
     min-width: 100%;
     background-color: $grey-bg-color;
-    padding: 15px 20px 10px 20px;
 
     ul {
       // flexbox is better than grid for distributing an unknown qty of children

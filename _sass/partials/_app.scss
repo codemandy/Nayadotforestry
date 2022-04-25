@@ -9,7 +9,7 @@
 body {
   background-color: $grey-bg-color;
   color: $text-color;
-  height: 100vh;
+  min-height: calc(90vh - 56px);
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
@@ -28,15 +28,13 @@ body > * {
 // our main content wrapper, the width scales with font size
 main {
   max-width: 100%;
-  padding: 0 2rem;
+  margin-top: 4rem;
+
 
   @media screen and (min-width: $screen-md-min) {
-    width: 80%;
+    max-width: 100%;
     // max-width: 52rem;
-    margin-right: auto;
-    margin-left: auto;
     display: grid;
-    margin-top: 4rem;
   }
 }
 
@@ -45,7 +43,7 @@ main {
 @supports (display: grid) {
   main {
     max-width: 100%;
-    padding: 0 2rem;
+
   }
 
   .blog-title {
@@ -69,12 +67,8 @@ main {
 img {
 object-fit: cover;
 
-  @media screen and (min-width: $screen-md-min) {
-  min-height: calc(90vh - 56px);
-  max-width: 100%;
-  margin-top: 2rem;
-  }
 }
+
 
 
 
