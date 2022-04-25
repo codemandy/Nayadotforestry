@@ -1,0 +1,51 @@
+//BLOG ------------------------>
+
+.blog-container {
+  min-height: 100vh;
+
+  .section-container {
+  }
+
+
+  @media screen and (min-width: $screen-sm-min) {
+    display: block;
+  }
+
+ img {
+  max-height: calc(50vh - 56px);
+
+  @media screen and (min-width: $screen-sm-min) {
+   max-height: calc(50vh - 56px);
+  }
+ }
+
+ section:first-child {
+  margin-top: 6rem;
+
+}
+
+}
+
+.blog-container {
+  max-width: 100%;
+  padding: 0 2rem;
+}
+
+
+
+a,
+a:visited {
+  color: $link-color;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  border: 0;
+  margin-bottom: 2rem;
+  @media screen and (min-width: $screen-sm-min) {
+
+  }
+
+a:hover {
+  color: $link-hover-color;
+}
+}
