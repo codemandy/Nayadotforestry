@@ -1,16 +1,22 @@
 // POST --------------------------->
 
 .post-container {
-
-
   img {
-    max-width: 60vh;
+    max-width: 50vh;
     display: grid;
     grid-column: main;
+    padding-top: 2rem;
+    @media screen and (min-width: $screen-sm-min) {
+      max-height: 56vh;
+      max-width: none;
+      padding-top: 8rem;
+    }
     @media screen and (min-width: $screen-md-min) {
       max-height: 70vh;
       max-width: none;
+      padding-top: 8rem;
     }
+
 
   }
 
@@ -18,9 +24,10 @@
     display: flex;
     justify-content: center;
     padding: 1rem;
+    padding-top: 3rem;
 
     @media screen and (min-width: $screen-sm-min) {
-    padding-top: 7rem;
+    padding-top: 3rem;
     }
   }
 
@@ -55,6 +62,10 @@
       justify-content: center;
       text-transform: uppercase;
       padding-top: 1.5rem;
+    }
+
+    .page-credits {
+      padding-bottom: 8rem;
     }
   }
 
