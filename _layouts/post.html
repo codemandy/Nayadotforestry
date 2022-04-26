@@ -8,12 +8,10 @@ layout: default_small
     <a href="{{ post.url }}" class="post-url">
       <img src="{{- page.image | relative_url -}}" alt="" class="post-top-img">
     </a>
-
-
-<div class="page-content">
-{{ content }}
-<div>credits:<br>{{ page.credits }}</div>
-</div>
+  <div class="page-content">
+    {{ content }}
+    <div class="page-credits"><p class="credits-title">credits</p>{{ page.credits }}</div>
+  </div>
 
 
 <!-- <nav aria-label="Adjacent Posts">
