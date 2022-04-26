@@ -72,18 +72,6 @@ object-fit: cover;
 
 
 
-// ABOUT ------------------------->
-.post-container-about {
-  @media screen and (min-width: $screen-sm-min) {
-      width: 60vw;
-      margin: auto auto;
-      display: flex;
-      justify-content: center;
-      margin-top: 10rem;
-    }
-}
-
-
 .active {
   color: $link-active-color;
 }

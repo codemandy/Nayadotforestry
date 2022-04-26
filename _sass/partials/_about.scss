@@ -1,0 +1,29 @@
+
+// ABOUT ------------------------->
+.post-container-about {
+  padding: 0 2rem;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 2rem;
+  @media screen and (min-width: $screen-sm-min) {
+      width: 60vw;
+      margin: auto auto;
+      display: flex;
+      justify-content: center;
+      margin-top: 10rem;
+      font-size: 16px;
+      line-height: 20px;
+
+      .contact {
+        text-align: center;
+        padding-top: 1.5rem;
+      }
+
+      .upcoming-title {
+        display: flex;
+        justify-content: center;
+        text-transform: uppercase;
+        padding-top: 1rem;
+      }
+    }
+}
