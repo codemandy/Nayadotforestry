@@ -1,7 +1,13 @@
-const posts = document.querySelectorAll(".TOUCH")
+const sectionOne = document.querySelector(".section-container");
 
-const observer = new IntersectionObserver(entries =>  {
-console.log(entries)
-})
+const options = { };
 
-observer.observe(posts[0])
+const observer = new IntersectionObserver(function(entries, observer)
+{
+  entries.forEach(entry => {
+    console.log(entry);
+  })
+
+}, options);
+
+observer.observe(sectionOne);
