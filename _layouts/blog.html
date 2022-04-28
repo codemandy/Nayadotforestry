@@ -6,9 +6,11 @@ layout: default
   {% for post in site.posts %}
     <section class="{{ post.title }}">
       <div class="section-container">
+        <div class="{{ post.categories }}">
         <a href="{{ post.url }}" class="post-url">
           <img src="{{- post.image | relative_url -}}" alt="" class="post-featured-images">
         </a>
+      </div>
         <div class="blog-title">
           <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
         </div>
