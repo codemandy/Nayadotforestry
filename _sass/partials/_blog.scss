@@ -69,5 +69,10 @@ background: rgb(216, 15, 15);
 }
 
 .active {
-color: blue;
+color: blue !important;
+}
+
+
+nav li a .active{
+  color: blue;
 }
