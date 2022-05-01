@@ -61,3 +61,18 @@ a:hover {
   color: $link-hover-color;
 }
 }
+
+
+.inverse {
+color: white;
+background: rgb(216, 15, 15);
+}
+
+.active {
+color: blue !important;
+}
+
+
+nav li a .active{
+  color: blue;
+}
