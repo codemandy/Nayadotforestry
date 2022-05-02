@@ -1,19 +1,25 @@
 //BLOG ------------------------>
 
 .blog-container {
-  min-height: 100vh;
-
+  .section-container:first-child {
+    min-height: calc(100vh);
+    padding-top: 175px;
+  }
   .section-container {
-    min-height: calc(100vh - 56px);
+    height: calc(100vh);
+    width: auto;
     display: grid;
-    align-items: center;
-    margin-top: 4rem;
-    margin-bottom: 2rem;
+    // align-items: center;
+    // align-content: center;
+    // margin-top: 4rem;
+    // margin-bottom: 2rem;
+
+
   }
 
 
   @media screen and (min-width: $screen-sm-min) {
-    display: block;
+    // display: block;
   }
 
  img {
@@ -22,9 +28,9 @@
 
     @media screen and (min-width: $screen-md-min) {
       max-height: calc(100vh - 56px);
-      max-width: 100vw;
-      padding-left: 6rem;
-      padding-right: 6rem;
+      width: auto;
+      // padding-left: 6rem;
+      // padding-right: 6rem;
 
       }
 
@@ -63,10 +69,6 @@ a:hover {
 }
 
 
-.inverse {
-color: white;
-background: rgb(216, 15, 15);
-}
 
 .active {
 color: blue !important;

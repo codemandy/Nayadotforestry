@@ -9,7 +9,7 @@
 body {
   background-color: $grey-bg-color;
   color: $text-color;
-  min-height: calc(90vh - 56px);
+  // min-height: calc(100vh - 56px);
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
@@ -80,10 +80,10 @@ object-fit: cover;
 
 // FOOTER -------------------------->
 
-footer {
-  height: 4rem;
-  bottom: 0;
-  position: fixed;
+// footer {
+//   height: 4rem;
+//   bottom: 0;
+//   position: fixed;
 
 
   // grid-column: full;
@@ -96,4 +96,4 @@ footer {
   // > small {
   //   grid-column: main;
   // }
-}
+// }
