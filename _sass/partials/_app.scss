@@ -9,7 +9,6 @@
 body {
   background-color: $grey-bg-color;
   color: $text-color;
-  min-height: calc(90vh - 56px);
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
@@ -28,13 +27,10 @@ body > * {
 // our main content wrapper, the width scales with font size
 main {
   max-width: 100%;
-
-
-
   @media screen and (min-width: $screen-md-min) {
-    max-width: 100%;
+    // max-width: 100%;
     // max-width: 52rem;
-    display: grid;
+    // display: grid;
   }
 }
 
@@ -46,10 +42,6 @@ main {
 
   }
 
-  .blog-title {
-    // margin-top: 1.5rem;
-    // margin-bottom: 5rem;
-
 
     a {
       color: $title-color;
@@ -57,19 +49,15 @@ main {
     }
   }
 
-  }
-
 
 
 
 //IMAGES ----------------------->
 
-img {
-object-fit: cover;
+// img {
+// object-fit: cover;
 
-}
-
-
+// }
 
 
 .active {
@@ -80,10 +68,10 @@ object-fit: cover;
 
 // FOOTER -------------------------->
 
-footer {
-  height: 4rem;
-  bottom: 0;
-  position: fixed;
+// footer {
+//   height: 4rem;
+//   bottom: 0;
+//   position: fixed;
 
 
   // grid-column: full;
@@ -96,4 +84,4 @@ footer {
   // > small {
   //   grid-column: main;
   // }
-}
+// }

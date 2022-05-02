@@ -3,8 +3,13 @@
 // header, the first grid row
 // it is also a grid for the logo and nav
 header {
+  min-height: 4rem;
+  min-width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
 
-    min-width: 100%;
 
 
   .nav-1 {
@@ -83,9 +88,10 @@ header > nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0px 0px;
+    padding-top: 1rem;
 
     @media screen and (min-width: $screen-sm-min) {
-    padding-top: 1rem;
+
     }
   }
 
