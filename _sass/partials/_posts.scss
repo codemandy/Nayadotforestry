@@ -88,21 +88,7 @@
 }
 
 
-//Blog post scroll
-.blog-title {
 
-  @media screen and (min-width: $screen-sm-min) {
-  overflow-y: scroll;
-  scroll-snap-align: end;
-  scroll-padding-top: 56px;
-  }
-
-  @media screen and (min-width: $screen-md-min) {
-  overflow-y: scroll;
-  scroll-snap-align: end;
-  scroll-padding-top: 56px;
-  }
-}
 
 
 

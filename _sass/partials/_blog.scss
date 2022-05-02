@@ -1,54 +1,78 @@
 //BLOG ------------------------>
 
 .blog-container {
-  .section-container:first-child {
-    min-height: calc(100vh);
-    padding-top: 175px;
-  }
+  display: grid;
+  justify-content: center;
+
   .section-container {
-    height: calc(100vh);
+    height: 100vh;
+    max-height: auto;
     width: auto;
     display: grid;
-    // align-items: center;
-    // align-content: center;
-    // margin-top: 4rem;
-    // margin-bottom: 2rem;
-
+    align-self: center;
+    @media screen and (min-width: $screen-md-min) {
+    margin: 0 5rem;
+    padding-top: 56px;
+    align-items: start;
+    }
 
   }
 
+  .blog-content {
+    // overflow-y: hidden;
+    margin: 0 3rem;
+    max-height: calc(100vh);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    @media screen and (min-width: $screen-md-min) {
+    overflow-y: hidden;
+    padding-top: 1rem;
+    }
+  }
 
-  @media screen and (min-width: $screen-sm-min) {
-    // display: block;
+  .blog-title {
+    // padding-top: 3rem;
+    // padding-bottom: 3rem;
+    color: $link-active-color;
+    @media screen and (min-width: $screen-sm-min) {
+    height: 7rem;
+    align-items: center;
+    }
   }
 
  img {
-  max-height: calc(50vh - 56px);
+  // width: 100%;
+  // height: auto;
+  // padding-top: 2rem;
+  width: 100%;
+  object-fit: cover;
 
-
-    @media screen and (min-width: $screen-md-min) {
-      max-height: calc(100vh - 56px);
-      width: auto;
-      // padding-left: 6rem;
-      // padding-right: 6rem;
-
-      }
-
- }
-
-
-}
-
-.blog-container {
-  max-width: 100%;
-  display: flex;
-  flex-direction: column;
 
   @media screen and (min-width: $screen-md-min) {
-    display: block;
- }
-}
+  // padding-top: 2rem;
+  height: 79vh;
+  }
 
+    // @media screen and (min-width: $screen-sm-min) {
+    //   height: calc(60vh - 56px);
+    //   // padding-left: 6rem;
+    //   // padding-right: 6rem;
+
+    //   }
+    // @media screen and (min-width: $screen-md-min) {
+    //   max-height: calc(100vh - 56px);
+    //   width: auto;
+    //   // padding-left: 6rem;
+    //   // padding-right: 6rem;
+
+    //   }
+
+ }
+
+
+}
 
 
 a,
@@ -77,4 +101,23 @@ color: blue !important;
 
 nav li a .active{
   color: blue;
+}
+
+
+
+//Blog post scroll
+.blog-scroll{
+
+
+  @media screen and (min-width: $screen-xs-min) {
+  overflow-y: scroll;
+  scroll-snap-align: center;
+  scroll-padding-top: 56px;
+  }
+
+  @media screen and (min-width: $screen-md-min) {
+  overflow-y: scroll;
+  scroll-snap-align: end;
+  scroll-padding-top: 56px;
+  }
 }
