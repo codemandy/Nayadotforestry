@@ -5,29 +5,32 @@
     max-width: 50vh;
     display: grid;
     grid-column: main;
-    padding-top: 2rem;
+    padding-top: 5rem;
     @media screen and (min-width: $screen-sm-min) {
       max-height: 56vh;
       max-width: none;
-      padding-top: 8rem;
+      padding-top: 5rem;
     }
     @media screen and (min-width: $screen-md-min) {
       max-height: 70vh;
       max-width: none;
-      padding-top: 8rem;
+      padding-top: 5rem;
     }
 
 
   }
 
   .page-title {
+    padding: 3rem 3rem 1rem 3rem;
+    text-align: center;
     display: flex;
     justify-content: center;
-    padding: 1rem;
-    padding-top: 3rem;
+
+
 
     @media screen and (min-width: $screen-sm-min) {
-    padding-top: 3rem;
+    padding-bottom: 0.5rem;
+
     }
   }
 
