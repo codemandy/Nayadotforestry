@@ -1,9 +1,10 @@
 <div class="navi">
-<ul>
-<li class="nav-1"><a href="{{ site.baseurl }}/" {% if page.class == 'active-class' %} class="active-class" {% endif %}>Naya Moll</a></li>
-<li class="nav-2"><a href="{{ site.baseurl }}/choreography.html" {% if page.url == '/choreography.html' %} class="active" {% endif %}></a></li>
-<div class="page-title">{{ page.title }}</div>
-<li class="nav-4"><a href="{{ site.baseurl }}/dramaturgy.html" {% if page.url == '/dramaturgy.html' %} class="active" {% endif %}></a></li>
-<li class="nav-5"><a href="{{ site.baseurl }}/about.html" {% if page.url == '/about.html' %} class="active" {% endif %}>About</a></li>
-</ul>
-</div>
+  <nav>
+  <ul>
+  <li class="nav-1"><a class="home" href="{{ site.baseurl }}/">Naya Moll</a></li>
+  <li class="nav-2"><a class="choreography" href="{{ site.baseurl }}/choreography.html" style="display: none;" >Choreography</a></li>
+  <li class="nav-3"><a class="dramaturgy" href="{{ site.baseurl }}/dramaturgy.html" style="display: none;" >Dramaturgy</a></li>
+  <li class="nav-4"><a class="collective-works" href="{{ site.baseurl }}/collective-works.html" style="display: none;">Collective Works</a></li>
+  <li class="nav-5"><a class="about" href="{{ site.baseurl }}/about.html">About</a></li>
+  </ul>
+  </div>
