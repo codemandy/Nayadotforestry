@@ -12,23 +12,17 @@ header {
 
 
 
+
   .nav-1 {
     display: flex;
     justify-content: flex-start;
     margin-left: 20px;
   }
 
-  .nav-2 {
+  .nav-2, .nav-3, .nav-4 {
     display: none;
   }
 
-  .nav-3 {
-    display: none;
-  }
-
-  .nav-4 {
-    display: none;
-  }
 
   .nav-5 {
     display: flex;
