@@ -1,7 +1,5 @@
 // NAVBAR
 
-// header, the first grid row
-// it is also a grid for the logo and nav
 header {
   min-height: 4rem;
   min-width: 100%;
@@ -28,47 +26,47 @@ header {
   }
 
 
-    //NAVIGATION LARGE SCREENS
-    @media screen and (min-width: $screen-sm-min) {
-    position: fixed;
-    min-height: 4rem;
-    width: 100%;
-    // grid-column: full;
-    // display: grid;
+  //NAVIGATION LARGE SCREENS
+  @media screen and (min-width: $screen-sm-min) {
+  position: fixed;
+  min-height: 4rem;
+  width: 100%;
+  // grid-column: full;
+  // display: grid;
+  display: flex;
+  padding-bottom: 0;
+
+
+
+
+  .nav-1 {
     display: flex;
-    padding-bottom: 0;
-
-
-
-
-    .nav-1 {
-      display: flex;
-      justify-content: flex-start;
-    }
-
-    .nav-2 {
-      display: flex;
-      justify-content: flex-end;
-    }
-
-    .nav-3 {
-      display: flex;
-      margin-left: 1rem;
-      justify-content: center;
-    }
-
-    .nav-4 {
-      display: flex;
-      justify-content: flex-start;
-      margin-left: 1rem;
-    }
-
-    .nav-5 {
-      display: flex;
-        justify-content: flex-end;
-        margin-right: 20px;
-    }
+    justify-content: flex-start;
   }
+
+  .nav-2 {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .nav-3 {
+    display: flex;
+    margin-left: 1rem;
+    justify-content: center;
+  }
+
+  .nav-4 {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 1rem;
+  }
+
+  .nav-5 {
+    display: flex;
+      justify-content: flex-end;
+      margin-right: 20px;
+  }
+ }
 }
 
 
@@ -88,7 +86,7 @@ header > nav {
 
   @media screen and (min-width: $screen-sm-min) {
     min-width: 100%;
-    // background-color: $grey-bg-color;
+    background-color: $grey-bg-color;
 
     ul {
       // flexbox is better than grid for distributing an unknown qty of children

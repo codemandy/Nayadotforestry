@@ -6,7 +6,8 @@ $link-hover-color: rgb(25, 75, 253);
 $title-color: rgb(0,56,255);
 
 
-$grey-bg-color: rgb(245, 245, 245);
+// $grey-bg-color: rgb(245, 245, 245);
+$grey-bg-color: rgb(255, 255, 255);
 $hairline-color: rgb(230,230,230);
 $selection-bg-color: rgba(255,255,100,0.5);
 $text-color-negative: rgb(230,230,230);
@@ -15,7 +16,8 @@ $text-color-negative: rgb(230,230,230);
 
 
 // typographic defaults
-$base-font: "LifeT", 'Helvetica Neue', sans-serif;
+// $base-font: "LifeT", 'Helvetica Neue', sans-serif;
+$base-font: sans-serif;
 $code-font: Courier, monospace;
 $base-font-size: 62.5%;
 $base-font-weight: 300;
