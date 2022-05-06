@@ -16,12 +16,12 @@ collections: # A list of collections the CMS should be able to edit
     folder: "_posts" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{day}}-{{month}}-{{year}}-{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - {label: "Date", name: "date", widget: "datetime", default: "", date_format: "DD.MM.YYYY" }
       - {label: "Project Title", name: "title", widget: "string", tagname: "h1" }
-      - {label: "Categories", name: "categories", widget: "list", allow_add: false, default: ["dramaturgy", "choreography", "collective-works"], required: true }
+      - {label: "Categories", name: "categories", widget: "select", options: ["dramaturgy", "choreography", "collective-works"], required: true }
       - {label: "Featured Image", name: "image", widget: "image", preview: false }
       - {label: "Body tekst", name: "body", widget: "markdown", required: false}
       - {label: "Reviews", name: "reviews", widget: "markdown", default: true, required: false }
