@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Project Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Date", name: "date", widget: "datetime", default: "", date_format: "YEAR.MM.DD" }
+      - {label: "Date", name: "date", widget: "datetime", time_format: false, default: "", date_format: "YEAR.MM.DD" }
       - {label: "Categories", name: "categories", widget: "select", options: ["dramaturgy", "choreography", "collective-works"], required: true }
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body tekst", name: "body", widget: "markdown", required: false }
