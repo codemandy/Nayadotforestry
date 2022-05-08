@@ -24,7 +24,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Body tekst", name: "body", widget: "markdown", required: false}
-      - {label: "Reviews", name: "reviews", widget: "markdown", widget: "boolean", default: true }
+      - {label: "Reviews", name: "reviews", widget: "markdown", default: true }
       - {label: "Credits", name: "credits", widget: "markdown" }
     # PAGES
   - name: "page"
