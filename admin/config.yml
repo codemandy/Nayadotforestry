@@ -39,9 +39,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown", required: false}
       - {label: "Upcoming", name: "upcoming", widget: "markdown", required: false }
       - {label: "Contact", name: "contact", widget: "markdown", required: false }
-
-
- - name: "page"
+  - name: "page"
     label: "Page"
     folder: "pages"
     sort: "title:asc"
