@@ -29,9 +29,7 @@ collections: # A list of collections the CMS should be able to edit
     # PAGES
   - name: "about"
     label: "About"
-    folder: "about.md"
-    sort: "title:asc"
-    create: false
+    file: "about.md"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
