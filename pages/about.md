@@ -6,11 +6,9 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: ""
-upcoming:
-  17/6 – titel, Dansehallerne\
-  22/8 – title, AGA\
-  17/6 – titel, Dansehallerne\
-  22/8 – title, AGA
+upcoming: 17/6 – titel, Dansehallerne\ 22/8 – title, AGA\ 17/6 – titel,
+  Dansehallerne\ 22/8 – title, AGA 17/6 – titel, Dansehallerne\ 22/8 – title,
+  AGA\ 17/6 – titel, Dansehallerne\ 22/8 – title, AGA
 ---
 Som koreograf udspringer mine værker ofte fra skrift: jeg er inspireret både af poesi, samt akademisk skrift, især inden for fænomenologi og feministisk- og kritisk teori. I mit koreografiske virke arbejder jeg fænomenologisk, poetisk og sanseligt, med spørgsmål der undersøger spændet mellem indre og ydre verden: grænselandet og relationen mellem kroppen og omgivelserne, hvor hierarkiet mellem menneske og natur bliver udfordret og undersøgt.
 
