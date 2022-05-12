@@ -10,9 +10,12 @@
 
   .upcoming-title {
         display: flex;
+        flex-direction: column;
         justify-content: center;
         text-transform: uppercase;
       }
+
+
 
   @media screen and (min-width: $screen-sm-min) {
       width: 60vw;
@@ -23,10 +26,13 @@
       font-size: 16px;
       line-height: 20px;
 
-      .contact {
+
+      .contact-title {
         @media screen and (min-width: $screen-sm-min) {
-        text-align: center;
-        padding-top: 1.5rem;
+          display: flex;
+          justify-content: center;
+          text-transform: uppercase;
+        padding-top: 8rem;
         }
       }
 
@@ -34,7 +40,6 @@
         display: flex;
         justify-content: center;
         text-transform: uppercase;
-        padding-top: 1rem;
       }
     }
 }
