@@ -4,31 +4,18 @@ layout: default
 <section id="{{ page.title }}">
 
 <div class="post-container">
-    <a href="{{ post.url }}" class="post-url">
-      <img src="{{- page.image | relative_url -}}" alt="" class="post-top-img">
-    </a>
-    <div class="page-title">{{ page.title }}</div>
+      <a href="{{ post.url }}" class="post-url">
+        <img src="{{- page.image | relative_url -}}" alt="" class="post-top-img">
+      </a>
+    <div class="page-title">{{ page.title }}
+    </div>
+
   <div class="page-content">
     {{ content }}
     <!-- <div class="page-reviews"><p class="reviews-title">Reviews</p>{{ page.reviews }}</div> -->
-    <div class="page-credits"><p class="credits-title">credits</p>{{ page.credits }}</div>
+      <div class="page-credits"><p class="credits-title">credits</p>{{ page.credits }}
+      </div>
   </div>
-
-
-<!-- <nav aria-label="Adjacent Posts">
-  <ul>
-    {% if page.previous.url %}
-      <li>
-        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
-      </li>
-    {% endif %}
-    {% if page.next.url %}
-      <li>
-        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
-      </li>
-    {% endif %}
-  </ul>
-</nav> -->
 
 </div>
 </section>

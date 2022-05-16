@@ -1,6 +1,10 @@
 // POST --------------------------->
 
 .post-container {
+  display: grid;
+  grid-column: main;
+  justify-content: center;
+
   img {
     max-width: 50vh;
     display: grid;
@@ -16,8 +20,6 @@
       max-width: none;
       padding-top: 5rem;
     }
-
-
   }
 
   .page-title {
@@ -34,23 +36,32 @@
     }
   }
 
+  .post-image {
+    margin: 0 auto;
+    // margin-right: auto;
+    // margin-left: auto;
+  }
+
+
   .page-content {
-    padding: 0 2rem;
     font-size: 14px;
     line-height: 18px;
-    margin-bottom: 2rem;
-    // margin-top: 1rem;
+   padding: 0.5rem 2.5rem 0.5rem 2.5rem;
+
+
     @media screen and (min-width: $screen-sm-min) {
-      max-width: 58vw;
-      margin: 2rem auto;
+      // max-width: 58vw;
+      // margin: 2rem 0;
       font-size: 16px;
       line-height: 20px;
+      margin: 0 20%;
+
     }
     @media screen and (min-width: $screen-md-min) {
-      max-width: 55vw;
-      margin: 2rem auto;
-    }
+      // max-width: 55vw;
+      // margin: 2rem 0;
 
+    }
 
 
     .reviews-title {
@@ -79,18 +90,15 @@
 
 
 
-}
 
 
-.post-featured-images img{
-  @media screen and (min-width: $screen-md-min) {
-    // min-height: calc(90vh - 56px);
-    margin-top: 4rem;
-    max-width: 100%;
-  }
-}
-
-
+// .post-featured-images img{
+//   @media screen and (min-width: $screen-md-min) {
+//     // min-height: calc(90vh - 56px);
+//     margin-top: 4rem;
+//     max-width: 100%;
+//   }
+// }
 
 
 
@@ -120,12 +128,4 @@ nav[aria-label="Adjacent Posts"] {
     }
   }
 }
-
-
-// post images
-
-.post-image {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
