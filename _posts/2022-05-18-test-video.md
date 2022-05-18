@@ -3,6 +3,7 @@ layout: post-video
 title: Test video
 date: 2022-05-11T22:00:00.000Z
 categories: dramaturgy
+image: /assets/img/uploads/touch_4.jpg
 youtubeId: 0xGBwnG7Bz4
 reviews: hidden
 credits: "“what specifically is it about such activities that impact
