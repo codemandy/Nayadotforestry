@@ -4,26 +4,23 @@
   display: grid;
   grid-column: main;
   justify-content: center;
+  overflow-y: auto;
 
-  img {
-    max-width: 50vh;
+
+  img, .post-image {
+    max-width: 80%;
+    object-fit: cover;
     display: grid;
     grid-column: main;
     padding-top: 5rem;
     @media screen and (min-width: $screen-sm-min) {
-      max-height: 56vh;
-      max-width: none;
-      padding-top: 5rem;
-    }
-    @media screen and (min-width: $screen-md-min) {
-      max-height: 70vh;
-      max-width: none;
-      padding-top: 5rem;
+      max-width: 70%;
     }
   }
 
+
   .page-title {
-    padding: 3rem 3rem 1rem 3rem;
+    padding: 2.5rem 3rem 1rem 3rem;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -37,38 +34,48 @@
   }
 
   .post-image {
-    margin: 0 auto;
-    // margin-right: auto;
-    // margin-left: auto;
+    align-items: center;
+    @media screen and (min-width: $screen-sm-min) {
+    }
+    @media screen and (min-width: $screen-md-min) {
+    }
   }
 
 
   .page-content {
     font-size: 14px;
     line-height: 18px;
-   padding: 0.5rem 2.5rem 0.5rem 2.5rem;
+    padding: 0.5rem 2.5rem 0.5rem 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 
     @media screen and (min-width: $screen-sm-min) {
-      // max-width: 58vw;
-      // margin: 2rem 0;
-      font-size: 16px;
-      line-height: 20px;
-      margin: 0 20%;
+      p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+        font-size: 16px;
+        line-height: 20px;
+      }
 
     }
     @media screen and (min-width: $screen-md-min) {
-      // max-width: 55vw;
-      // margin: 2rem 0;
-
+      margin: 0 10%;
     }
-
 
     .reviews-title {
       display: flex;
       justify-content: center;
       text-transform: uppercase;
       padding-top: 1.5rem;
+
+    }
+
+    .page-credits {
+      padding-bottom: 8rem;
     }
 
     .credits-title {
@@ -78,29 +85,14 @@
       padding-top: 1.5rem;
     }
 
-    .page-credits {
-      padding-bottom: 8rem;
-    }
+
 
     .title-italic {
     font-style: italic;
-
     }
   }
 
-
-
-
-
-// .post-featured-images img{
-//   @media screen and (min-width: $screen-md-min) {
-//     // min-height: calc(90vh - 56px);
-//     margin-top: 4rem;
-//     max-width: 100%;
-//   }
-// }
-
-
+}
 
 
 // blog posts list
@@ -127,5 +119,4 @@ nav[aria-label="Adjacent Posts"] {
       }
     }
   }
-}
 }

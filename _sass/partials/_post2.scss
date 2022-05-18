@@ -1,0 +1,47 @@
+
+// ABOUT ------------------------->
+.post-container {
+  padding: 0 2rem;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 2rem;
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+
+  img {
+    width: 100%;
+    object-fit: cover;
+    padding: 1rem 0;
+
+
+    @media screen and (min-width: $screen-md-min) {
+    }
+  }
+
+
+  .page-title {
+    padding: 2.5rem 3rem 1rem 3rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+  }
+
+
+    .reviews-title {
+      padding: 2.5rem 3rem 1rem 3rem;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      text-transform: uppercase;
+    }
+
+    .credits-title {
+      padding: 2.5rem 3rem 1rem 3rem;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      text-transform: uppercase;
+    }
+}
