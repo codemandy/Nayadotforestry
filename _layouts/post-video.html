@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<section id="{{ page.title }}">
+
+<div class="post-container">
+      <a href="{{ post.url }}" class="post-url">
+        {% include youtubePlayer.html id=page.youtubeId %}
+      </a>
+    <div class="page-title">{{ page.title }}
+    </div>
+
+  <div class="page-content">
+    {{ content }}
+    <div class="page-reviews"><p class="reviews-title">Reviews</p><p>{{ page.reviews }}</p></div>
+      <div class="page-credits"><p class="credits-title">credits</p><p>{{ page.credits }}</p>
+      </div>
+  </div>
+
+</div>
+</section>
