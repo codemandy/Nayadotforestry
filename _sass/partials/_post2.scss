@@ -14,10 +14,13 @@
     // object-fit: cover;
     padding: 1rem 0;
     @media screen and (min-width: $screen-sm-min) {
-     width: 80%
-
+     width: 75%
+    }
+    @media screen and (min-width: $screen-md-min) {
+     width: 70%
     }
   }
+
 
   .page-content {
     display: flex;
