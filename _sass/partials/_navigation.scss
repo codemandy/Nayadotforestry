@@ -3,10 +3,13 @@
 header {
   // min-height: 4rem;
   min-width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
+
+  @media screen and (min-width: $screen-sm-min) {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
 
   .nav-1 {
     display: flex;

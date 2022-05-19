@@ -5,12 +5,15 @@
   justify-content: center;
 
   .section-container {
-    height: 100vh;
+    height: 89vh;
     max-height: auto;
     width: auto;
     display: grid;
     align-self: center;
     overflow-y: hidden;
+    @media screen and (min-width: $screen-sm-min) {
+    height: 100vh;
+    }
     @media screen and (min-width: $screen-md-min) {
     margin: 0 5rem;
     padding-top: 56px;
@@ -112,12 +115,10 @@ nav li a .active{
 
 
 //Blog post scroll
-.blog-scroll{
-  @media screen and (min-width: $screen-xs-min) {
+.blog-scroll:not(first-of-type){
   overflow-y: scroll;
   scroll-snap-align: center;
   scroll-padding-top: 56px;
-  }
 
   @media screen and (min-width: $screen-md-min) {
   overflow-y: scroll;
