@@ -43,16 +43,44 @@
     align-items: center;
     padding-bottom: 1rem;
     padding-top: 0;
+
+    @media screen and (min-width: $screen-md-min) {
+      // max-width: 90%;
+
+      }
     }
   }
 
  img {
   width: 100%;
   object-fit: cover;
+
+  @media screen and (min-width: $screen-sm-min) {
+    // max-width: 85%;
+    height: 50vh;
+
+    }
+
   @media screen and (min-width: $screen-md-min) {
-  height: 79vh;
+  // max-width: 90%;
+  height: 78vh;
+  margin-left: 2rem;
+
   }
  }
+
+//  img {
+//   max-height: 50vh;
+//   padding: 1rem 0;
+//   @media screen and (min-width: $screen-sm-min) {
+//     max-height: 79vh;
+
+//   }
+//   @media screen and (min-width: $screen-md-min) {
+
+//   }
+// }
+
 }
 
 a,
