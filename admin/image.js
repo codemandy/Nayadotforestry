@@ -10,13 +10,13 @@ CMS.registerEditorComponent({
       data-action: match[5]
 
     },
-  toBlock: function({image, alt, title, classes}, getAsset, fields) {
-    return `<img src="${image || ''}" alt="${alt || ''}" title="${title || ''}" class="${classes || ''}" data-action="${data-action || ''}"/>`
+  toBlock: function({image, alt, title, classes, data-action}, getAsset, fields) {
+    return `<img src="${image || ''}" alt="${alt || ''}" title="${title || ''}" class="${classes || ''}" data="${data-action || ''}"/>`
   },
-  toPreview: ({ image, alt, title, classes }, getAsset, fields) => {
-    return `<img src="${image}" alt="${alt}" title="${title}" class="${classes}" data-action="${data-action}"/>`;
+  toPreview: ({ image, alt, title, classes, data-action }, getAsset, fields) => {
+    return `<img src="${image}" alt="${alt}" title="${title}" class="${classes}" data="${data-action}"/>`;
   },
-  pattern:  /^<img src="(.*?)" alt="(.*?)" title="(.*?)" class="(.*?)" data-action="(.*?)"\/>$/s,
+  pattern:  /^<img src="(.*?)" alt="(.*?)" title="(.*?)" class="(.*?)" data="(.*?)"\/>$/s,
   fields: [
     {
       label: 'Picture',
@@ -28,7 +28,11 @@ CMS.registerEditorComponent({
     },
     {
       label: 'Alt Text',
-      name: 'alt',
+      name: 'alt'
+    },
+    {
+      label: 'Title',
+      name: 'title'
     },
     {
       label: 'CSS Classes',
@@ -39,10 +43,6 @@ CMS.registerEditorComponent({
       label: 'Data-action',
       name: 'data-action',
       default: 'zoom'
-    },
-    {
-      label: 'Title',
-      name: 'title'
     },
   ]
 })
