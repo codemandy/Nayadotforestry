@@ -30,12 +30,13 @@ CMS.registerEditorComponent({
     },
     {
       label: 'CSS Classes',
-      name: 'classes'
+      name: 'classes',
+      default: "post-image"
+    },
     },
     {
       label: 'Title',
       name: 'title',
-      default: 'post-image'
     },
   ]
 })
