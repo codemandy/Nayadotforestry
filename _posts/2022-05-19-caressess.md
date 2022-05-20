@@ -24,17 +24,17 @@ categories: dramaturgy
 image: /assets/img/uploads/caresses_01.jpg
 youtubeId: ""
 credits: >-
-  Koncept: Emilie Gregersen\
+  Koncept: Emilie Gregersen
 
-  Koreografi og performance: Paolo De Venecia Gile og Emilie Gregersen\
+  Koreografi og performance: Paolo De Venecia Gile og Emilie Gregersen
 
-  Lyd: Karis Zidore\
+  Lyd: Karis Zidore
 
-  Dramaturg og koreografisk konsulent: Naya Moll\
+  Dramaturg og koreografisk konsulent: Naya Moll
 
-  Tekst arbejde: Naya Moll og Emilie Gregersen\
+  Tekst arbejde: Naya Moll og Emilie Gregersen
 
-  Scenografi: Elin Stampe\
+  Scenografi: Elin Stampe
 
   Co-produktion: Dansehallerne
 
