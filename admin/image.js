@@ -31,12 +31,11 @@ CMS.registerEditorComponent({
     {
       label: 'CSS Classes',
       name: 'classes',
-      default: "post-image"
-    },
+      default: 'post-image'
     },
     {
       label: 'Title',
-      name: 'title',
+      name: 'title'
     },
   ]
 })
