@@ -9,7 +9,7 @@ CMS.registerEditorComponent({
       classes: match[4]
     },
   toBlock: function({image, alt, title, classes}, getAsset, fields) {
-    return `<img src="${image || ''}" alt="${alt || ''}" title="${title || ''}" class="${classes || ''}"/>`
+    return `<img src="${image || ''}" alt="${alt || ''}" title="${title || ''}" class="${image-post || ''}"/>`
   },
   toPreview: ({ image, alt, title, classes }, getAsset, fields) => {
     return `<img src="${image}" alt="${alt}" title="${title}" class="${classes}"/>`;
