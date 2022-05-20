@@ -34,3 +34,5 @@ Premiere oktober 2021 på Copenhagen Contemporary x Dansehallerne.
 <img src="/assets/img/uploads/Caresses_10.jpg" alt="" title="" class="post-image"/>
 
 <img src="/assets/img/uploads/Caresses_15.jpg" alt="" title="" class=""/>
+
+<img src="/assets/img/uploads/Caresses_16.jpg" alt="" title="" class=""/>
