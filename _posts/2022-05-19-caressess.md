@@ -31,8 +31,4 @@ Værket er anden del af en trilogi der undersøger berøring fra et fænomenolog
 
 Premiere oktober 2021 på Copenhagen Contemporary x Dansehallerne.
 
-<img src="/assets/img/uploads/caresses_02.jpg" alt="" title="Caressess" class="image-post"/>
-
-<img src="/assets/img/uploads/project_20211006_0001-1.jpeg" alt="" title="" class=""/>
-
-<img src="/assets/img/uploads/Caresses_10.jpg" alt="" title="" class=""/>
+<img src="/assets/img/uploads/Caresses_10.jpg" alt="" title="" class="post-image"/>
