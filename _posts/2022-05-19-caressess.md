@@ -39,6 +39,7 @@ credits: >-
   Co-produktion: Dansehallerne
 
 
+
   Støttet af: Statens Kunstfond, William Demant Fonden, Koda Dramatik og Dansk Skuespillerforbunds Produktionsstøttemidler
 ---
 *Caresses* udfolder en stoflig og poetisk performance, der bevæger sig igennem samhørighed, berøringens politiske implikationer, taktilitet og følelser. Det erotiske, det tvetydige, det intime og det uvirkelige bliver vævet sammen, udfordret og omfavnet.
