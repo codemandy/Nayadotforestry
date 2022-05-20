@@ -9,10 +9,10 @@ CMS.registerEditorComponent({
       classes: match[4]
     },
   toBlock: function({image, alt, title, classes}, getAsset, fields) {
-    return `<img src="${image || ''}" alt="${alt || ''}" title="${title || ''}" class="${image-post || ''}"/>`
+    return `<img src="${image || ''}" alt="${alt || ''}" title="${title || ''}" class="${post-image}"/>`
   },
   toPreview: ({ image, alt, title, classes }, getAsset, fields) => {
-    return `<img src="${image}" alt="${alt}" title="${title}" class="${classes}"/>`;
+    return `<img src="${image}" alt="${alt}" title="${title}" class="${post-image}"/>`;
   },
   pattern:  /^<img src="(.*?)" alt="(.*?)" title="(.*?)" class="(.*?)"\/>$/s,
   fields: [
