@@ -35,6 +35,7 @@ CMS.registerEditorComponent({
     {
       label: 'Title',
       name: 'title',
+      default: 'post-image'
     },
   ]
 })
