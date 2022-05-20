@@ -13,10 +13,10 @@
     width: 100%;
     padding: 1rem 0;
     @media screen and (min-width: $screen-sm-min) {
-     width: 75%
+      width: 80%;
     }
     @media screen and (min-width: $screen-md-min) {
-     width: 70%
+    //  width: 70%
     }
   }
 
@@ -31,6 +31,11 @@
   .image-block {
     display: flex;
     justify-content: center;
+    text-align: center;
+  }
+
+  .post-image {
+width: 100%;
   }
 
   //   .page-content {
