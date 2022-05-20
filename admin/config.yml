@@ -25,9 +25,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Featured Image", name: "image", widget: "image", required: false }
       - {label: "YoutubeId", name: "youtubeId", widget: "string", required: false }
       - {label: "Body tekst", name: "body", widget: "markdown", required: false }
-      - {label: "Section 1", name: "section1", widget: "markdown", required: false }
-      - {label: "Section 2", name: "section2", widget: "markdown", required: false }
-      - {label: "Section 3", name: "section3", widget: "markdown", required: false }
       - {label: "Reviews", name: "reviews", widget: "markdown", required: false }
       - {label: "Credits", name: "credits", widget: "markdown", required: false }
     # PAGES
