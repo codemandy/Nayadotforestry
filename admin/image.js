@@ -21,7 +21,7 @@ CMS.registerEditorComponent({
       name: 'image',
       widget: 'image',
       media_library: {
-        allow_multiple: false,
+        allow_multiple: true,
       },
     },
     {
