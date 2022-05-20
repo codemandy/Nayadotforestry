@@ -1,10 +1,5 @@
 ---
 layout: post
-title: CARESSESS
-date: 2020-05-31T22:00:00.000Z
-categories: dramaturgy
-image: /assets/img/uploads/caresses_01.jpg
-youtubeId: ""
 section1: >-
   *touch* is a choreographic piece by Emilie Gregersen. The piece is developed
   in collaboration with sound artist Karis Zidore and dramaturge/choreographic
@@ -23,6 +18,11 @@ section1: >-
 
 
   – Naya Moll
+title: CARESSESS
+date: 2020-05-31T22:00:00.000Z
+categories: dramaturgy
+image: /assets/img/uploads/caresses_01.jpg
+youtubeId: ""
 credits: >-
   Koncept: Emilie Gregersen\
 
@@ -51,7 +51,10 @@ Premiere oktober 2021 på Copenhagen Contemporary x Dansehallerne.
 
 <img src="/assets/img/uploads/Caresses_10.jpg" alt="" title="" class="post-image"/>
 
+*Caresses* er et koreografisk værk af koreograf og kunstner Emilie Gregersen, skabt i tæt samarbejde med danser, Paolo De Venecia Gile, lydkunstner, Karis Zidore, dramaturg og koreografisk konsulent, Naya Moll, og billedkunstner, Elin Stampe. 
+
 <img src="/assets/img/uploads/Caresses_15.jpg" alt="" title="" class="post-image"/>
 
-<img src="/assets/img/uploads/Caresses_16.jpg" alt="" title="" class="post-image"/>
+*Caresses* er et koreografisk værk af koreograf og kunstner Emilie Gregersen, skabt i tæt samarbejde med danser, Paolo De Venecia Gile, lydkunstner, Karis Zidore, dramaturg og koreografisk konsulent, Naya Moll, og billedkunstner, Elin Stampe. 
 
+<img src="/assets/img/uploads/Caresses_16.jpg" alt="" title="" class="post-image"/>
