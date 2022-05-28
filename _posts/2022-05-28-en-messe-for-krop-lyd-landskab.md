@@ -30,6 +30,10 @@ section0: >-
   Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 section1: <img src="/assets/img/uploads/en_messe_02.jpeg" alt="" title=""
   class="post-image" data-action="zoom"/>
+section2: <img src="/assets/img/uploads/en_messe_03.jpeg" alt="" title=""
+  class="post-image" data-action="zoom"/>
+section3: <img src="/assets/img/uploads/en_messe_04.jpeg" alt="" title=""
+  class="post-image" data-action="zoom"/>
 credits: >-
   Koncept, iscenesættelse & koreografi: Naya Moll
 
