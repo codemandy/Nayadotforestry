@@ -12,6 +12,10 @@ layout: default
     <div class="page-content">
       {{ content }}
 
+      {% if page.section0 contains "" %}
+      <div class="page-section1"><p class="section0"></p><p>{{ page.section0 }}</p></div>
+      {% endif %}
+
       {% if page.section1 contains "" %}
       <div class="page-section1"><p class="section1"></p><p>{{ page.section1 }}</p></div>
       {% endif %}
