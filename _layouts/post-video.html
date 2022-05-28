@@ -2,18 +2,34 @@
 layout: default
 ---
 <section id="{{ page.title }}">
+  <div class="post-container">
+        <div class="iframe-container"> {% include youtubePlayer.html id=page.youtubeId %}</div>
+      <div class="page-title">{{ page.title }}
+      </div>
 
-<div class="post-container">
-       <div class="iframe-container"> {% include youtubePlayer.html id=page.youtubeId %}</div>
-    <div class="page-title">{{ page.title }}
-    </div>
+      <div class="page-content">
+        {{ content }}
 
-  <div class="page-content">
-    {{ content }}
-    <div class="page-reviews"><p class="reviews-title">Reviews</p><p>{{ page.reviews }}</p></div>
-      <div class="page-credits"><p class="credits-title">credits</p><p>{{ page.credits }}</p>
+        {% if page.section1 contains "" %}
+        <div class="page-section1"><p class="section1"></p><p>{{ page.section1 }}</p></div>
+        {% endif %}
+
+        {% if page.section2 contains "" %}
+        <div class="page-section1"><p class="section1"></p><p>{{ page.section1 }}</p></div>
+        {% endif %}
+
+        {% if page.section3 contains "" %}
+        <div class="page-section1"><p class="section1">Reviews</p><p>{{ page.section1 }}</p></div>
+        {% endif %}
+
+        {% if page.reviews contains "" %}
+        <div class="page-reviews"><p class="reviews-title">Reviews</p><p>{{ page.reviews }}</p></div>
+        {% endif %}
+
+        {% if page.credits contains "" %}
+          <div class="page-credits"><p class="credits-title">credits</p><p>{{ page.credits }}</p>
+        {% endif %}
+          </div>
       </div>
   </div>
-
-</div>
 </section>
