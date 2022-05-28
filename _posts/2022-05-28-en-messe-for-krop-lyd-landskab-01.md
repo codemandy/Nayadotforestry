@@ -4,7 +4,7 @@ title: EN MESSE FOR KROP, LYD & LANDSKAB 01
 date: 2022-04-30T22:00:00.000Z
 categories: choreography
 image: /assets/img/uploads/en_messe_01.jpeg
-section0: >-
+section0:
   *En Messe for Krop, Lyd & Landskab* er et stedsspecifikt bevægelses- og
   lydværk skabt til Hospice. Værket er en aktivering af det omkringliggende
   landskab, hvor dansernes cykliske bevægelser har en meditativ og
