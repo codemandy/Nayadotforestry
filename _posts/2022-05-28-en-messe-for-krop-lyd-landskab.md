@@ -24,10 +24,11 @@ section0: >-
   En Messe for Krop, Lyd & Landskab er et projekt, der gennem kunst søger en synergi mellem naturen og det medmenneskelige.
 
 
-  Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020, hvor det også blev opført igen i 2021. I 2022 skal værket omdannes til visning på Hospice Svanevig på Lolland, Hospice Søndergård på Sjælland, og Hospice Gudenå i Midtjylland.
+  Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020, hvor det også blev opført igen i 2021. I 2022 skal værket omdannes til visning på Hospice Svanevig på Lolland, Hospice Søndergård på Sjælland, og Hospice Gudenå i Midtjylland.\
 
+  \
 
-  Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark. 
+  Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 section1: <img src="/assets/img/uploads/en_messe_02.jpeg" alt="" title=""
   class="post-image" data-action="zoom"/>
 section2: <img src="/assets/img/uploads/en_messe_03.jpeg" alt="" title=""
