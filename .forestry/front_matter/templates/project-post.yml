@@ -14,15 +14,20 @@ fields:
 - type: text
   name: categories
   label: categories
+  description: choreography, dramaturgy or collective-works
 - type: file
   name: image
-  label: image
+  label: Featured image
 - type: text
   name: youtubeId
   label: youtubeId
 - type: textarea
   name: section0
   label: section0
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: textarea
   name: section1
   label: section1
