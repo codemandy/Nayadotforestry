@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SLUTTY HJERTE
+date: 2018-12-01T12:11:19.590Z
 categories: collective-works
 image: /assets/img/uploads/slutty_hjerte_4.jpg
 credits: Slutty Hjerte er et koreografisk værk af Emilie Gregersen, Naya Moll
