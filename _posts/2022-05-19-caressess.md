@@ -1,5 +1,10 @@
 ---
 layout: post
+title: CARESSESS
+date: 2020-10-20T22:00:00.000Z
+categories: dramaturgy
+image: /assets/img/uploads/caresses_01.jpg
+youtubeId: ""
 section1: >-
   *touch* is a choreographic piece by Emilie Gregersen. The piece is developed
   in collaboration with sound artist Karis Zidore and dramaturge/choreographic
@@ -18,11 +23,6 @@ section1: >-
 
 
   – Naya Moll
-title: CARESSESS
-date: 2020-05-31T22:00:00.000Z
-categories: dramaturgy
-image: /assets/img/uploads/caresses_01.jpg
-youtubeId: ""
 credits: >-
   Koncept: Emilie Gregersen
 
