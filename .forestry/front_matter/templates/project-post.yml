@@ -1,0 +1,37 @@
+---
+label: Project post
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: categories
+  label: categories
+- type: file
+  name: image
+  label: image
+- type: text
+  name: youtubeId
+  label: youtubeId
+- type: textarea
+  name: section0
+  label: section0
+- type: textarea
+  name: section1
+  label: section1
+- type: textarea
+  name: section2
+  label: section2
+- type: textarea
+  name: section3
+  label: section3
+- type: textarea
+  name: credits
+  label: credits
