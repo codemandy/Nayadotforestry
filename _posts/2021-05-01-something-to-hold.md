@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SOMETHING TO HOLD
+date: 2022-01-01T12:12:50.283Z
 categories: collective-works
 image: /assets/img/uploads/something-to-hold-7.jpg
 credits: Marie Louise Buch og koreografer Emilie Gregersen og Naya Moll
