@@ -23,21 +23,12 @@ fields:
   name: youtubeId
   label: youtubeId
 - type: textarea
-  name: section0
-  label: section0
+  name: body
+  label: Body tekst
   config:
     wysiwyg: true
     schema:
       format: markdown
-- type: textarea
-  name: section1
-  label: section1
-- type: textarea
-  name: section2
-  label: section2
-- type: textarea
-  name: section3
-  label: section3
 - type: textarea
   name: credits
   label: credits
