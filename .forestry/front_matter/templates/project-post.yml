@@ -5,7 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  description: post (no featured video) or post-video (starts with a featured video)
+  description: post (no featured video) or post-video (featured video)
 - type: text
   name: title
   label: title
