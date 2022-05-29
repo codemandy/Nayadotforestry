@@ -1,7 +1,7 @@
 ---
 layout: post-video
 title: EN MESSE FOR KROP, LYD & LANDSKAB
-date: 2022-04-30 22:00:00 +0000
+date: 2022-04-30T22:00:00.000+00:00
 categories: choreography
 image: assets/img/uploads/en_messe_01.jpeg
 youtubeId: UqhxifZPyqs
@@ -15,6 +15,8 @@ body: |-
   _En Messe for Krop, Lyd & Landskab_ er inspireret af Inger Christensens sonetkrans _Sommerfugledalen_. Koreografien og kompositionen er inspireret af digtsamlingens cykliske og gentagende form.
 
   _En Messe for Krop, Lyd & Landskab_ er et projekt, der gennem kunst søger en synergi mellem naturen og det medmenneskelige.
+
+  ![](assets/img/uploads/en_messe_02.jpeg)
 
   Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020, hvor det også blev opført igen i 2021. I 2022 skal værket omdannes til visning på Hospice Svanevig på Lolland, Hospice Søndergård på Sjælland, og Hospice Gudenå i Midtjylland.
 
