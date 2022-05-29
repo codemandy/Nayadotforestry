@@ -1,6 +1,7 @@
 ---
-label: Project post
+label: Project post 2
 hide_body: false
+display_field: body
 fields:
 - type: text
   name: layout
