@@ -20,11 +20,11 @@ section0: |-
 
   Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 
-  ![](/uploads/en_messe_02.jpeg)
+  ![](assets/img/uploads/en_messe_04.jpeg)
 
   _En Messe for Krop, Lyd & Landskab_ er et projekt, der gennem kunst søger en synergi mellem naturen og det medmenneskelige.
 
-  ![](/uploads/en_messe_03.jpeg)
+  ![](assets/img/uploads/en_messe_02.jpeg)
 section1: ''
 section2: ''
 section3: ''
