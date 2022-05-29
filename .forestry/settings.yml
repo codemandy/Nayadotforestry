@@ -1,9 +1,12 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path:
+webhook_url:
 sections:
+- type: jekyll-pages
+  label: About
+  path: "/pages/about.md"
 - type: jekyll-pages
   label: Pages
   create: all
