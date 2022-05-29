@@ -1,5 +1,5 @@
 ---
-layout: post-video
+layout: post
 title: EN MESSE FOR KROP, LYD & LANDSKAB
 date: 2022-04-30T22:00:00.000+00:00
 categories: choreography
