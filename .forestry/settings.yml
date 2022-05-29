@@ -7,10 +7,6 @@ sections:
 - type: document
   path: pages/about.md
   label: About
-  match: "**/*"
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: jekyll-posts
   label: Posts
   create: all
