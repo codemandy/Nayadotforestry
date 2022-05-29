@@ -9,36 +9,36 @@ media_folder: "assets/img/uploads" # Folder where user uploaded files should go
 
 publish_mode: editorial_workflow # Enable drafts
 
-collections: # A list of collections the CMS should be able to edit
-  # POSTS
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "_posts" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "select",  options: ["post", "post-video"], required: true }
-      - {label: "Project Title", name: "title", widget: "string", tagname: "h1" }
-      - {label: "Date", name: "date", widget: "datetime", time_format: false, default: "", date_format: "YEAR.MM.DD" }
-      - {label: "Categories", name: "categories", widget: "select", options: ["dramaturgy", "choreography", "collective-works"], required: true }
-      - {label: "Featured Image", name: "image", widget: "image", required: false }
-      - {label: "YoutubeId", name: "youtubeId", widget: "string", required: false }
-      - {label: "Section 0", name: "section0", widget: "markdown", required: false }
-      - {label: "Section 1", name: "section1", widget: "markdown", required: false }
-      - {label: "Section 2", name: "section2", widget: "markdown", required: false }
-      - {label: "Section 3", name: "section3", widget: "markdown", required: false }
-      - {label: "Credits", name: "credits", widget: "markdown", required: false }
-    # PAGES
-  - name: "about"
-    label: "About"
-    folder: "pages"
-    file: "about.md"
-    fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
-      - {label: "Title", name: "title", widget: "string", tagname: "h1" }
-      - {label: "Permalink", name: "permalink", widget: "hidden" }
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}" }
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Upcoming", name: "upcoming", widget: "markdown", required: false }
-      - {label: "Contact", name: "contact", widget: "markdown", required: false }
+# collections: # A list of collections the CMS should be able to edit
+#   # POSTS
+#   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+#     label: "Post" # Used in the UI, ie.: "New Post"
+#     folder: "_posts" # The path to the folder where the documents are stored
+#     sort: "date:desc" # Default is title:asc
+#     create: true # Allow users to create new documents in this collection
+#     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+#     fields: # The fields each document in this collection have
+#       - {label: "Layout", name: "layout", widget: "select",  options: ["post", "post-video"], required: true }
+#       - {label: "Project Title", name: "title", widget: "string", tagname: "h1" }
+#       - {label: "Date", name: "date", widget: "datetime", time_format: false, default: "", date_format: "YEAR.MM.DD" }
+#       - {label: "Categories", name: "categories", widget: "select", options: ["dramaturgy", "choreography", "collective-works"], required: true }
+#       - {label: "Featured Image", name: "image", widget: "image", required: false }
+#       - {label: "YoutubeId", name: "youtubeId", widget: "string", required: false }
+#       - {label: "Section 0", name: "section0", widget: "markdown", required: false }
+#       - {label: "Section 1", name: "section1", widget: "markdown", required: false }
+#       - {label: "Section 2", name: "section2", widget: "markdown", required: false }
+#       - {label: "Section 3", name: "section3", widget: "markdown", required: false }
+#       - {label: "Credits", name: "credits", widget: "markdown", required: false }
+#     # PAGES
+#   - name: "about"
+#     label: "About"
+#     folder: "pages"
+#     file: "about.md"
+#     fields:
+#       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+#       - {label: "Title", name: "title", widget: "string", tagname: "h1" }
+#       - {label: "Permalink", name: "permalink", widget: "hidden" }
+#       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}" }
+#       - {label: "Body", name: "body", widget: "markdown", required: false}
+#       - {label: "Upcoming", name: "upcoming", widget: "markdown", required: false }
+#       - {label: "Contact", name: "contact", widget: "markdown", required: false }
