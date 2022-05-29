@@ -23,13 +23,16 @@ fields:
 - type: text
   name: youtubeId
   label: youtubeId
-- type: textarea
-  name: body
-  label: Body tekst
+- name: body
+  type: textarea
+  default: ''
   config:
+    required: false
     wysiwyg: true
     schema:
       format: markdown
+  label: Body
+  description: The main section
 - type: textarea
   name: credits
   label: credits
