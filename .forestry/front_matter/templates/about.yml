@@ -2,6 +2,13 @@
 label: About
 hide_body: false
 fields:
+- name: upcominglist
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: upcoming
 - type: text
   name: contact
   label: contact
@@ -14,10 +21,3 @@ fields:
 - type: text
   name: section
   label: section
-- name: upcominglist
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: upcoming
