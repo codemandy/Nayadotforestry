@@ -12,9 +12,6 @@ fields:
   name: layout
   label: layout
 - type: text
-  name: title
-  label: title
-- type: text
   name: permalink
   label: permalink
 - type: text
