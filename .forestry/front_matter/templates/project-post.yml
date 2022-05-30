@@ -40,6 +40,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    export_format: MM-DD-YYYY h:mm A
 - type: file
   name: image
   label: Featured image
