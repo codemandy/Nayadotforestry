@@ -17,6 +17,10 @@ fields:
 - type: text
   name: section
   label: section
-- type: datetime
-  name: upcoming
+- name: upcominglist
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
   label: upcoming
