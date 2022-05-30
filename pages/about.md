@@ -19,8 +19,6 @@ Naya has worked as a performer for artists such as Marina Abramovic, Lilibeth Cu
 
 Naya is a part of Dance Cooperative in Copenhagen, a self-organized collective space for performance and intersectional practices. She is board member of DANSEatelier, and board member and editor of “Kvinde Kend Din Krop“, a fund working with public health information about the body, gender, sex and culture.
 
-***
-
 Naya er koreograf, danser og dramaturg. Hun er uddannet danser og koreograf fra Den Danske Scenekunstskole i 2017. Nayas praksis er funderet i fænomenologi, omsorg og feministisk kritik. I hendes koreografiske virke arbejder hun poetisk og sanseligt, med spørgsmål der undersøger spændet mellem indre og ydre verden: grænselandet og relationen mellem kroppen og omgivelserne, hvor hierarkiet mellem menneske og natur bliver udfordret og undersøgt. I hendes landskabsværker for dans og musik lavet stedsspecifikt til hospicer i Danmark, undersøger hun koreografi i relation til landskaber, med omsorg som et gennemgående tema. Omsorg henviser også til hvordan hun arbejder med publikum, hvordan hendes værker produceres, og i hendes lederskab.
 
 Son dramaturg og koreografisk sparringspartner, har Naya arbejdet tæt sammen med koreografen Emilie Gregersen, om hendes forestillinger Touch (2020) og Caresses (2021).
