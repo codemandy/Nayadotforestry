@@ -10,7 +10,7 @@ layout: default
         {{ content }}
         <!-- {% if page.credits contains "" %} -->
           <div class="page-credits"><p class="credits-title">credits</p>
-            <ul>
+            <ul id="credits-list">
               {% for credit in page.creditslist %}
                 <li>{{ credit }}</li>
               {% endfor %}
