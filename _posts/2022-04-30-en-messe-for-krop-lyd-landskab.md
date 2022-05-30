@@ -6,7 +6,8 @@ date: 2022-04-30T22:00:00.000+00:00
 image: "/assets/img/uploads/en_messe_01.jpeg"
 youtubeId: ''
 credits: ''
-vimeo_id: "714891354"
+vimeo_id: '714891354'
+vimeoid: "714891354"
 
 ---
 _En Messe for Krop, Lyd & Landskab_ er et stedsspecifikt bevægelses- og lydværk skabt til Hospice. Værket er en aktivering af det omkringliggende landskab, hvor dansernes cykliske bevægelser har en meditativ og transformerende virkning på beskueren – en messe.  
