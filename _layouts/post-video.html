@@ -7,7 +7,7 @@ layout: default
       <div class="page-title">{{ page.title }}
       </div>
       <div class="page-content">
-        {{ content | kramdown-image }}
+        {{ content }}
         {% if page.credits contains "" %}
           <div class="page-credits"><p class="credits-title">credits</p><p>{{ page.credits }}</p>
         {% endif %}
