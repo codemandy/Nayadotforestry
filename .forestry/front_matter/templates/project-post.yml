@@ -55,5 +55,9 @@ fields:
 - type: textarea
   name: credits
   label: credits
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _posts/2021-10-04-caresses.md
