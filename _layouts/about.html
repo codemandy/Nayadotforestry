@@ -9,7 +9,12 @@ layout: default_small
     {{ content }}
   <br>
 
-  <div class="upcoming-title "><p class="upcoming-title">UPCOMING  <br><br> {{ page.upcoming }}</p>
+  <div class="upcoming-title "><p class="upcoming-title">UPCOMING</p>s
+    <ul>
+      {% for upcoming in page.upcominglist %}
+        <li>{{ upcoming }}</li>
+      {% endfor %}
+    </ul>
   </div>
 
   <div class="contact-title">
