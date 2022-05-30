@@ -1,11 +1,9 @@
 ---
 contact: CONTACT / INSTAGRAM / CV / TIKTOK
-meta_description: ''
 layout: about
 title: About
 permalink: "/about"
 section: about
-intro_paragraph: ''
 upcoming: ''
 
 ---
