@@ -52,11 +52,11 @@ fields:
   showOnly:
     field: layout
     value: post-video
-- name: vimeoid
+- name: vimeoid1
   type: text
   config:
     required: false
-  label: vimeoId
+  label: vimeoId1
 - type: textarea
   name: credits
   label: credits
@@ -64,6 +64,16 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- name: vimeoid
+  type: number
+  label: Vimeo id
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - _posts/2021-10-04-caresses.md
 - _posts/2022-04-30-en-messe-for-krop-lyd-landskab.md
