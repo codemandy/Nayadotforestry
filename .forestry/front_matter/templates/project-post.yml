@@ -52,6 +52,11 @@ fields:
   showOnly:
     field: layout
     value: post-video
+- name: vimeo_id
+  type: text
+  config:
+    required: false
+  label: Vimeo id
 - type: textarea
   name: credits
   label: credits
