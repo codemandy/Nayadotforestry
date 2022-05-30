@@ -46,13 +46,6 @@ fields:
 - type: file
   name: image
   label: Featured image
-- type: textarea
-  name: credits
-  label: credits
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - name: vimeoid
   type: number
   label: Vimeo id
@@ -63,6 +56,16 @@ fields:
     min: 
     max: 
     step: 
+  showOnly:
+    field: layout
+    value: post-video
+- type: textarea
+  name: credits
+  label: credits
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _posts/2021-10-04-caresses.md
 - _posts/2022-04-30-en-messe-for-krop-lyd-landskab.md
