@@ -13,7 +13,7 @@ sections:
   templates:
   - project-post
 upload_dir: assets/img/uploads
-public_path: assets/img/uploads
+public_path: "/assets/img/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
