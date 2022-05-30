@@ -20,9 +20,6 @@ fields:
 - type: text
   name: section
   label: section
-- type: text
-  name: intro_paragraph
-  label: intro_paragraph
 - type: datetime
   name: upcoming
   label: upcoming
