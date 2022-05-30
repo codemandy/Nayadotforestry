@@ -6,9 +6,7 @@ title: About
 permalink: "/about"
 section: about
 intro_paragraph: ''
-upcoming: 17/6 – titel, Dansehallerne\ 22/8 – title, AGA\ 17/6 – titel, Dansehallerne\
-  22/8 – title, AGA 17/6 – titel, Dansehallerne\ 22/8 – title, AGA\ 17/6 – titel,
-  Dansehallerne\ 22/8 – title, AGA
+upcoming: ''
 
 ---
 Naya is a choreographer, dancer and dramaturge. She holds a BA in dance and choreography from The Danish National School of Performing Arts, where she graduated in 2017. Both as a choreographer and as a dramaturge her work is embedded in phenomenology as well as feminist critique, emerging in questions relating to the phenomenology of senses, the body and its interrelation to the outer world/nature. In her landscape performances for dance and music made site specifically to hospices in Denmark, she is investigating choreography in relation to landscapes, with care as a recurring theme. Care also refers to how she works with the relation to the audicence, in how she produces works, and in her leadership.
