@@ -3,20 +3,43 @@ label: Project post
 hide_body: false
 display_field: title
 fields:
-- type: text
-  name: layout
-  label: layout
+- name: layout
+  type: select
+  default: post
+  config:
+    required: true
+    options:
+    - post
+    - post-video
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Choose layout
   description: post (no featured video) or post-video (featured video)
+- name: categories
+  type: select
+  default: choreography
+  config:
+    required: true
+    options:
+    - choreography
+    - dramaturgy
+    - collective-works
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  description: choreography, dramaturgy or collective-works
+  label: Categories
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
-- type: text
-  name: categories
-  label: categories
-  description: choreography, dramaturgy or collective-works
 - type: file
   name: image
   label: Featured image
