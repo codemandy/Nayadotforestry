@@ -6,9 +6,6 @@ fields:
   name: contact
   label: contact
 - type: text
-  name: meta_description
-  label: meta_description
-- type: text
   name: layout
   label: layout
 - type: text
