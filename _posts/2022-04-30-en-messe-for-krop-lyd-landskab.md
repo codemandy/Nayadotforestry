@@ -12,6 +12,12 @@ credits: "Koncept, iscenesættelse & koreografi: Naya Moll.   \n  \nDans og kore
   William Demant Fonden, Ringkøbing-Skjern Kommune, Dansk Skuespillerforbunds Projektstøtteudvalg
   & Slots- og Kulturstyrelsen"
 vimeoid: 714891354
+credits-list:
+- 'Koncept, iscenesættelse & koreografi: Naya Moll.'
+- 'Dans og koreografi: Karin Bergman, Marlene Bonnesen, Emilie Gregersen, Amalia Kasakove
+  & Anna Lea Ourø.'
+- 'Musikkomposition: Karis Zidore.'
+- ''
 
 ---
 _En Messe for Krop, Lyd & Landskab_ er et stedsspecifikt bevægelses- og lydværk skabt til Hospice. Værket er en aktivering af det omkringliggende landskab, hvor dansernes cykliske bevægelser har en meditativ og transformerende virkning på beskueren – en messe.
