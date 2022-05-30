@@ -26,14 +26,6 @@ fields:
 - type: textarea
   name: credits
   label: credits
-- name: post_image
-  type: blocks
-  label: post image
-  template_types:
-  - post-image
-  config:
-    min: 
-    max: 
 pages:
 - _posts/2022-04-30-en-messe-for-krop-lyd-landskab.md
 - _posts/2022-05-02-hej-hej.md
