@@ -1,0 +1,28 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: contact
+  label: contact
+- type: text
+  name: meta_description
+  label: meta_description
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: section
+  label: section
+- type: text
+  name: intro_paragraph
+  label: intro_paragraph
+- type: datetime
+  name: upcoming
+  label: upcoming
