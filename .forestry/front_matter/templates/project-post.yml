@@ -46,6 +46,9 @@ fields:
 - type: text
   name: youtubeId
   label: youtubeId
+  showOnly:
+    field: layout
+    value: post-video
 - type: textarea
   name: credits
   label: credits
