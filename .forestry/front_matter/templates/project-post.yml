@@ -59,13 +59,6 @@ fields:
   showOnly:
     field: layout
     value: post-video
-- type: textarea
-  name: credits
-  label: credits
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - name: creditslist
   type: list
   config:
@@ -74,7 +67,7 @@ fields:
     max: 
     source:
       type: simple
-  label: creditsList
+  label: credits
 pages:
 - _posts/2021-10-04-caresses.md
 - _posts/2022-04-30-en-messe-for-krop-lyd-landskab.md
