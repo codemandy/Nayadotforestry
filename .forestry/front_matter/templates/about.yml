@@ -15,9 +15,12 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: section
   label: section
+  hidden: true
