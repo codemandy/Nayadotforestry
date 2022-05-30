@@ -66,6 +66,15 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- name: credits-list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+    source:
+      type: simple
+  label: credits-list
 pages:
 - _posts/2021-10-04-caresses.md
 - _posts/2022-04-30-en-messe-for-krop-lyd-landskab.md
