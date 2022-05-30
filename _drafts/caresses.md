@@ -17,10 +17,16 @@ credits: |-
   Støttet af: Statens Kunstfond, William Demant Fonden, Koda Dramatik og Dansk Skuespillerforbunds Produktionsstøttemidler
 
 ---
-_Caresses_ udfolder en stoflig og poetisk performance, der bevæger sig igennem samhørighed, berøringens politiske implikationer, taktilitet og følelser. Det erotiske, det tvetydige, det intime og det uvirkelige bliver vævet sammen, udfordret og omfavnet.  
-  
-_Caresses_ er et koreografisk værk af koreograf og kunstner Emilie Gregersen, skabt i tæt samarbejde med danser, Paolo De Venecia Gile, lydkunstner, Karis Zidore, dramaturg og koreografisk konsulent, Naya Moll, og billedkunstner, Elin Stampe.  
-  
-Værket er anden del af en trilogi der undersøger berøring fra et fænomenologisk og koreografisk perspektiv. Trilogien undersøger og forvrænger berøring som handling, sansning og som fundamental præmis for væren. Første del af trilogien, soloen _touch_ (2020), navigerer berøring gennem et forvrænget og tech-sensorisk univers.  
-  
+_Caresses_ udfolder en stoflig og poetisk performance, der bevæger sig igennem samhørighed, berøringens politiske implikationer, taktilitet og følelser. Det erotiske, det tvetydige, det intime og det uvirkelige bliver vævet sammen, udfordret og omfavnet.
+
+_Caresses_ er et koreografisk værk af koreograf og kunstner Emilie Gregersen, skabt i tæt samarbejde med danser, Paolo De Venecia Gile, lydkunstner, Karis Zidore, dramaturg og koreografisk konsulent, Naya Moll, og billedkunstner, Elin Stampe.
+
+Værket er anden del af en trilogi der undersøger berøring fra et fænomenologisk og koreografisk perspektiv. Trilogien undersøger og forvrænger berøring som handling, sansning og som fundamental præmis for væren. Første del af trilogien, soloen _touch_ (2020), navigerer berøring gennem et forvrænget og tech-sensorisk univers.
+
 Premiere oktober 2021 på Copenhagen Contemporary x Dansehallerne.
+
+![](/assets/img/uploads/touch_1.jpg "touch")
+
+![](/assets/img/uploads/something-to-hold-5.jpg "touch 2")
+
+![](/assets/img/uploads/touch_4.jpg "touch 3")
