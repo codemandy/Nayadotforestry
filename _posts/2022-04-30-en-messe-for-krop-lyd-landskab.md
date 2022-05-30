@@ -5,11 +5,11 @@ title: En Messe for Krop, Lyd & Landskab
 date: 2022-04-30T22:00:00.000+00:00
 image: "/assets/img/uploads/en_messe_01.jpeg"
 youtubeId: ''
-credits: "Koncept, iscenesættelse & koreografi: Naya Moll.   \nDans og koreografi:
+credits: "Koncept, iscenesættelse & koreografi: Naya Moll.   \n  \nDans og koreografi:
   Karin Bergman, Marlene Bonnesen, Emilie Gregersen, Amalia Kasakove & Anna Lea Ourø.
-  \  \nMusikkomposition: Karis Zidore.   \nKostumer: Lise Marie Birch & Tytti Hongisto.
-  \  \n  \nProjektet er støttet af: Statens Kunstfond, Augustinus Fonden, William
-  Demant Fonden, Ringkøbing-Skjern Kommune, Dansk Skuespillerforbunds Projektstøtteudvalg
+  \  \n  \nMusikkomposition: Karis Zidore.   \n  \nKostumer: Lise Marie Birch & Tytti
+  Hongisto.   \n  \nProjektet er støttet af: Statens Kunstfond, Augustinus Fonden,
+  William Demant Fonden, Ringkøbing-Skjern Kommune, Dansk Skuespillerforbunds Projektstøtteudvalg
   & Slots- og Kulturstyrelsen"
 vimeoid: 714891354
 
