@@ -1,5 +1,5 @@
 ---
-contactlist: ""
+contactlist: CONTACT INSTAGRAM CV
 layout: about
 title: About
 permalink: "/about"
