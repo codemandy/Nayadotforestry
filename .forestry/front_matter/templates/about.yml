@@ -12,9 +12,6 @@ fields:
       type: simple
   label: upcominglist
 - type: text
-  name: contact
-  label: contact
-- type: text
   name: layout
   label: layout
   hidden: true
