@@ -69,6 +69,7 @@ fields:
       type: simple
   label: credits
 pages:
+- _posts/2018-11-30-slutty-hjerte.md
 - _posts/2021-09-30-caresses.md
 - _posts/2021-12-31-something-to-hold.md
 - _posts/2022-04-30-en-messe-for-krop-lyd-landskab.md
