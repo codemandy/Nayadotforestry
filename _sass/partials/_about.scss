@@ -36,10 +36,14 @@
         }
       }
 
-      .upcoming-title {
-        display: flex;
-        justify-content: center;
-        text-transform: uppercase;
-      }
+      // .upcoming-title {
+      //   display: flex;
+      //   justify-content: center;
+      //   text-transform: uppercase;
+      // }
+    }
+
+    #upcoming-list {
+      font-size: 14px;
     }
 }
