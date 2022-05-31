@@ -1,20 +1,25 @@
 
 // ABOUT ------------------------->
+#about {
+  overflow-y: scroll;
+}
+
 .post-container-about {
-  padding: 0 2rem;
+  overflow-y: hidden;
+    padding: 0 2rem;
     font-size: 14px;
     line-height: 18px;
-    margin-bottom: 2rem;
     margin-top: 6rem;
-    @media screen and (min-width: $screen-sm-min) {
+    @media screen and (min-width: $screen-md-min) {
       width: 60vw;
-      margin: auto auto;
+      margin-left: auto;
+      margin-right: auto;
       display: flex;
       justify-content: center;
       margin-top: 10rem;
       font-size: 16px;
       line-height: 20px;
-}
+     }
 
 
   .upcoming-title {
@@ -26,21 +31,17 @@
 
       #upcoming-list {
         font-size: 13px;
-      }
-
-
-      .contact-title .contact {
-        @media screen and (min-width: $screen-sm-min) {
+        @media screen and (min-width: $screen-md-min) {
           display: flex;
-        flex-direction: column;
-        justify-content: center;
-        text-transform: uppercase;
-        padding-top: 8rem;
-        text-align: center;
+          flex-direction: column;
+          justify-content: center;
+          text-transform: uppercase;
+          padding-left: 1rem;
 
         }
       }
 }
+
 
 .footer {
   position: absolute;
@@ -48,7 +49,7 @@
   width: 100%;
   height: 4rem;
   font-size: 16px;
-  margin: 2rem 1rem auto;
+  // margin: 2rem 1rem auto;
   background-color: $grey-bg-color;
   display: flex;
   align-items: center;
@@ -59,4 +60,9 @@
   list-style: none;
   padding: 1rem;
   }
+
+  #email, #instagram {
+    color: $text-color;
+  }
+
 }
