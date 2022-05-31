@@ -1,10 +1,11 @@
 ---
-contactlist: CONTACT INSTAGRAM CV
+contactlist: MAIL    /    INSTAGRAM
 layout: about
 title: About
 permalink: "/about"
 section: about
 upcominglist:
+- '13/07/2022: Absalons kirken performance'
 - '12/06/2022: Cozy club, performance with artist Marina Abramovic'
 - '1/04/2022: Bloom Festival, performance etc etc'
 
