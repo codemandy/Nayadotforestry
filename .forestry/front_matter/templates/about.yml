@@ -26,3 +26,12 @@ fields:
   name: section
   label: section
   hidden: true
+- name: contactlist
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Contactlist
