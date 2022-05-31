@@ -18,17 +18,16 @@ creditslist:
   og Kulturstyrelsen'
 
 ---
-_En Messe for Krop, Lyd & Landskab_ er et stedsspecifikt bevægelses- og lydværk skabt til Hospice. Værket er en aktivering af det omkringliggende landskab, hvor dansernes cykliske bevægelser har en meditativ og transformerende virkning på beskueren – en messe.
+En Messe for Krop, Lyd & Landskab
 
-Alle på hospice får udleveret et par hovedtelefoner, hvori man kan opleve lydsiden af værket, og som man kan tage af eller på alt efter hvor meget man kan og vil engagere sig i værket, alt efter sin fysiske og mentale kapacitet på dagen. Ligeledes modtager alle et brev, som introducerer værket.
+_En Messe for Krop, Lyd & Landskab_ er et stedsspecifikt bevægelses- og lydværk skabt til Hospice. Værket er en aktivering af det omkringliggende landskab, hvor dansernes cykliske bevægelser har en meditativ og transformerende virkning på beskueren – en messe. _En Messe for Krop, Lyd & Landskab_ er inspireret af Inger Christensens sonetkrans _Sommerfugledalen_. Koreografien og kompositionen er inspireret af digtsamlingens cykliske og gentagende form. 
 
-Det er projektets ambition at skabe et æstetisk refleksionsrum både for indlagte, pårørende og plejepersonalet. Ønsket er at skabe en meningsfuld fælles oplevelse; et minde som alle kan tage med sig videre. Værket er et sted hvor øjet kan finde hvile, et rum for meditativ refleksion.
+Værket er en meditation over den cykliske forbundethed i alt, og væver mennesket sammen med naturen. _En Messe for Krop, Lyd & Landskab_ ønsker at være et sanseligt minde hos de pårørende. _En Messe for Krop, Lyd & Landskab_ er et værk der skaber synergi mellem kunst, naturen og medmenneskelighed. Gennem kunst skabes meningsfulde oplevelser, som kan gøre en social forskel, også ved livets yderpunkter.
 
-_En Messe for Krop, Lyd & Landskab_ er inspireret af Inger Christensens sonetkrans _Sommerfugledalen_. Koreografien og kompositionen er inspireret af digtsamlingens cykliske og gentagende form.
+Det er projektets ambition at skabe et æstetisk refleksionsrum både for indlagte, pårørende og plejepersonalet. Værket er desuden åbent for offentligheden.
 
-_En Messe for Krop, Lyd & Landskab_ er et projekt, der gennem kunst søger en synergi mellem naturen og det medmenneskelige.
+Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020-2021. I 2023/2024 skal værket transformeres til visning på Hospice Svanevig på Lolland, Hospice Djursland på Syddjurs, og Hospice Gudenå i Midtjylland.
 
-Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020, hvor det også blev opført igen i 2021. I 2022 skal værket omdannes til visning på Hospice Svanevig på Lolland, Hospice Søndergård på Sjælland, og Hospice Gudenå i Midtjylland.
 Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 
 ![](/assets/img/uploads/en_messe_02.jpeg)
