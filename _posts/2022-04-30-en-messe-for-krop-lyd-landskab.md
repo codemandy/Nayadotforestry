@@ -13,7 +13,6 @@ creditslist:
   & Anna Lea Ourø.'
 - 'Musikkomposition: Karis Zidore.'
 - 'Kostumer: Lise Marie Birch & Tytti Hongisto.'
-- ''
 - 'Projektet er støttet af: Statens Kunstfond, Augustinus Fonden, William Demant Fonden,
   Ringkøbing-Skjern Kommune, Dansk Skuespillerforbunds Projektstøtteudvalg & Slots-
   og Kulturstyrelsen'
