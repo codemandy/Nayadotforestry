@@ -18,7 +18,7 @@ creditslist:
   og Kulturstyrelsen'
 
 ---
-![](/assets/img/uploads/en_messe_brev.jpeg)En Messe for Krop, Lyd & Landskab
+En Messe for Krop, Lyd & Landskab
 
 _En Messe for Krop, Lyd & Landskab_ er et stedsspecifikt bevægelses- og lydværk skabt til Hospice. Værket er en aktivering af det omkringliggende landskab, hvor dansernes cykliske bevægelser har en meditativ og transformerende virkning på beskueren – en messe. _En Messe for Krop, Lyd & Landskab_ er inspireret af Inger Christensens sonetkrans _Sommerfugledalen_. Koreografien og kompositionen er inspireret af digtsamlingens cykliske og gentagende form.
 
@@ -43,3 +43,5 @@ Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 ![](/assets/img/uploads/en_messe_08.jpeg)
 
 ![](/assets/img/uploads/en_messe_06.jpeg)
+
+![](/assets/img/uploads/en_messe_brev.jpeg)
