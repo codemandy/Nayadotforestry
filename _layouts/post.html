@@ -10,14 +10,12 @@ layout: default
       </div>
         <div class="page-content">
         {{ content }}
-        {% if page.credits contains "" %}
         <div class="page-credits"><p class="credits-title">credits</p>
           <ul id="credits-list">
             {% for credit in page.creditslist %}
               <li>{{ credit }}</li>
             {% endfor %}
           </ul>
-        {% endif %}
         </div>
     </div>
   </div>

@@ -6,6 +6,15 @@
     line-height: 18px;
     margin-bottom: 2rem;
     margin-top: 6rem;
+    @media screen and (min-width: $screen-sm-min) {
+      width: 60vw;
+      margin: auto auto;
+      display: flex;
+      justify-content: center;
+      margin-top: 10rem;
+      font-size: 16px;
+      line-height: 20px;
+}
 
 
   .upcoming-title {
@@ -16,18 +25,8 @@
       }
 
       #upcoming-list {
-        font-size: 14px;
+        font-size: 13px;
       }
-
-
-  @media screen and (min-width: $screen-sm-min) {
-      width: 60vw;
-      margin: auto auto;
-      display: flex;
-      justify-content: center;
-      margin-top: 10rem;
-      font-size: 16px;
-      line-height: 20px;
 
 
       .contact-title .contact {
@@ -41,5 +40,4 @@
 
         }
       }
-    }
 }
