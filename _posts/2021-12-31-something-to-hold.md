@@ -6,9 +6,9 @@ title: SOMETHING TO HOLD
 date: 2021-12-31T23:00:00.000+00:00
 image: "/assets/img/uploads/something_to_hold_01.jpeg"
 creditslist:
-- 'Komponist: Marie Louise Buch '
-- 'Koreografer: Naya Moll og Emilie Gregersen'
-- 'Støttet af: Statens Kunstfond'
+- 'Komposition, koreografi og performance: Naya Moll, Marie Louise Buch og Emilie
+  Gregersen'
+- 'Støttet af: Statens Kunstfond, William Demant'
 
 ---
 **S o m e t h i n g T o H o l d**
