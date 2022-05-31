@@ -6,8 +6,8 @@ fields:
   type: list
   config:
     use_select: false
-    min:
-    max:
+    min: 
+    max: 
     source:
       type: simple
   label: upcominglist
@@ -27,9 +27,11 @@ fields:
   label: section
   hidden: true
 - name: contactlist
+  type: textarea
+  default: ''
   config:
     required: false
     wysiwyg: true
     schema:
       format: markdown
-  label: contactlist
+  label: Contactlist
