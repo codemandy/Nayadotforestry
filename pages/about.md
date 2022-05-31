@@ -1,5 +1,5 @@
 ---
-contactlist:
+contactlist: ""
 layout: about
 title: About
 permalink: "/about"
