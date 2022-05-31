@@ -7,7 +7,7 @@ date: 2018-11-30T23:00:00.000+00:00
 image: "/assets/img/uploads/slutty_hjerte_02.jpeg"
 creditslist:
 - Koreografisk værk af Emilie Gregersen, Naya Moll Olsen and Anna Lea Ourø
-- DANSEatelier i december 2018. 
+- DANSEatelier i december 2018
 
 ---
 _Velkommen til det klichefyldte og nemme._  
