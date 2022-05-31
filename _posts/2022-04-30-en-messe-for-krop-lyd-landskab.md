@@ -8,11 +8,11 @@ youtubeId: ''
 credits: ''
 vimeoid: 715572090
 creditslist:
-- 'Koncept, iscenesættelse & koreografi: Naya Moll.'
+- 'Koncept, iscenesættelse & koreografi: Naya Moll'
 - 'Dans og koreografi: Karin Bergman, Marlene Bonnesen, Emilie Gregersen, Amalia Kasakove
-  & Anna Lea Ourø.'
-- 'Musikkomposition: Karis Zidore.'
-- 'Kostumer: Lise Marie Birch & Tytti Hongisto.'
+  & Anna Lea Ourø'
+- 'Musikkomposition: Karis Zidore'
+- 'Kostumer: Lise Marie Birch & Tytti Hongisto'
 - 'Projektet er støttet af: Statens Kunstfond, Augustinus Fonden, William Demant Fonden,
   Ringkøbing-Skjern Kommune, Dansk Skuespillerforbunds Projektstøtteudvalg & Slots-
   og Kulturstyrelsen'
