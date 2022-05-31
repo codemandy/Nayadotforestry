@@ -3,7 +3,7 @@ layout: post
 categories: collective-works
 vimeoid: 0
 title: SOMETHING TO HOLD
-date: 
+date: 2021-12-31 23:00:00 +0000
 image: "/assets/img/uploads/something_to_hold_01.jpeg"
 creditslist:
 - 'Komponist: Marie Louise Buch '
