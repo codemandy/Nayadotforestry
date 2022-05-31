@@ -14,15 +14,6 @@ fields:
 - type: text
   name: contact
   label: contact
-- name: contactlist
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Contactlist
 - type: text
   name: layout
   label: layout
@@ -35,3 +26,12 @@ fields:
   name: section
   label: section
   hidden: true
+- name: contactlist
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: contactlist
