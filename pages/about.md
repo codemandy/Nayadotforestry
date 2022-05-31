@@ -4,9 +4,11 @@ title: About
 permalink: "/about"
 section: about
 upcominglist:
-- '13/07/2022: Absalons kirken performance'
-- '12/06/2022: Cozy club, performance with artist Marina Abramovic'
-- '1/04/2022: Bloom Festival, performance etc etc'
+- '2022: Micro Macro Dance Dramaturgies, Prague'
+- '2023: En Messe for Krop, Lyd & Landskab, Hospice Djursland'
+- '2024: En Messe for Krop, Lyd & Landskab, Hospice Svanevig'
+- '2024: En Messe for Krop, Lyd & Landskab, Hospice Gudenå'
+- '2024: Something to Hold, ALICE'
 
 ---
 Naya is a choreographer, dancer and dramaturge. She holds a BA in dance and choreography from The Danish National School of Performing Arts, where she graduated in 2017. Both as a choreographer and as a dramaturge her work is embedded in phenomenology as well as feminist critique, emerging in questions relating to the phenomenology of senses, the body and its interrelation to the outer world/nature. In her landscape performances for dance and music made site specifically to hospices in Denmark, she is investigating choreography in relation to landscapes, with care as a recurring theme. Care also refers to how she works with the relation to the audicence, in how she produces works, and in her leadership.

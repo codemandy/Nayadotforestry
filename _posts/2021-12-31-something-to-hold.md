@@ -6,15 +6,19 @@ title: SOMETHING TO HOLD
 date: 2021-12-31T23:00:00.000+00:00
 image: "/assets/img/uploads/something_to_hold_01.jpeg"
 creditslist:
-- 'Komponist: Marie Louise Buch '
-- 'Koreografer: Naya Moll og Emilie Gregersen'
-- 'Støttet af: Statens Kunstfond'
+- 'Komposition, koreografi og performance: Naya Moll, Marie Louise Buch og Emilie
+  Gregersen'
+- 'Støttet af: Statens Kunstfond, William Demant'
 
 ---
-Work-in-progress visning af _Something to Hold_ i Dance Cooperative, maj 2021. Visningerne afsluttede et længere kunstnerisk udviklingsarbejde støttet af Statens Kunstfond mellem 2019-2021. Projektet har nu modtaget støtte til produktion. _Something to Hold_ får premiere i 2022.
+**S o m e t h i n g T o H o l d**
 
-_Something To Hold_ er et coming-of-age værk i spændet mellem en koncert og en danseforestilling. Værket skabes kollektivt og performes af komponist, Marie Louise Buch og koreografer Emilie Gregersen og Naya Moll.
+_(kommende værk)_
 
-Med den elektriske guitar som scenografisk og instrumentalt omdrejningspunkt opridser vi universer af hooks og riffs og hænger ud i scener og tableauer af slidte motiver. I en temperamentsfuld længsel undersøger vi måder at forbinde os til hinanden, hvor både det ømme og storladne får plads. Mellem den intime, akustiske koncert og stadionrock-koncerten, mellem det skrøbelige, følsomme og det temperamentsfulde, ekstroverte og storladne, væves en fiktion over de teen boys vi aldrig selv har været.
+_Something To Hold_ er et coming-of-age værk i spændet mellem en koncert og en danseforestilling. Værket skabes og performes af komponist, Marie Louise Buch og koreografer Emilie Gregersen og Naya Moll. _Something To Hold_ er et poetisk og punket genreeksperiment, som tager udgangspunkt i den elektriske guitar som instrument, objekt og scenografi. Værket kan ses som et visuelt album, iscenesat i én lang koreografi. Der veksles mellem sange, udstrakte lydbilleder, dragende danse, hooks og riffs, som tager beskueren med på en rejse gennem cinematiske scener og henførende stemninger.
+
+_Something To Hold_ har premiere på spillestedet ALICE i København i marts 2024. ALICE co-producerer _Something To Hold_ både til deres eget program, samt til en national turné.
+
+_Something To Hold_ udspringer fra et længerevarende udviklingsprojekt, som modtog udviklingsstøtte fra Statens Kunstfond i 2019, under navnet _Syntese mellem Koncert og Performance_. Dette udviklingsprojekt blev afsluttet i maj 2021, med en række laboratorievisninger i Dance Cooperative, under titlen _Something To Hold_, som også er titlen på det kommende værk.
 
 ![](/assets/img/uploads/something_to_hold_02.jpeg)
