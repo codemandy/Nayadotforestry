@@ -1,5 +1,6 @@
 ---
 contact: CONTACT / INSTAGRAM / CV / TIKTOK
+contactlist:
 layout: about
 title: About
 permalink: "/about"
