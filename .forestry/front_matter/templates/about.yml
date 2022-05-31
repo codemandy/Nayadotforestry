@@ -31,4 +31,4 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: contactlist
+  label: Contactlist
