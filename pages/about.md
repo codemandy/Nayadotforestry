@@ -1,5 +1,5 @@
 ---
-contactlist: 'CONTACT2 / INSTAGRAM2 / CV2 / TIKTOK2'
+contactlist:
 layout: about
 title: About
 permalink: "/about"
