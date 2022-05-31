@@ -6,7 +6,7 @@ date: 2022-04-30T22:00:00.000+00:00
 image: "/assets/img/uploads/en_messe_01.jpeg"
 youtubeId: ''
 credits: ''
-vimeoid: 714891354
+vimeoid: 715572090
 creditslist:
 - 'Koncept, iscenesættelse & koreografi: Naya Moll.'
 - 'Dans og koreografi: Karin Bergman, Marlene Bonnesen, Emilie Gregersen, Amalia Kasakove

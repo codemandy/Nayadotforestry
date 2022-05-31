@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: post-video
 categories: collective-works
-vimeoid: 
+vimeoid: 715577905
 title: SOMETHING TO HOLD
 date: 2021-12-31T23:00:00.000+00:00
 image: "/assets/img/uploads/something_to_hold_01.jpeg"
 creditslist:
 - 'Komponist: Marie Louise Buch '
-- Koreografer Emilie Gregersen og Naya Moll
+- 'Koreografer: Naya Moll og Emilie Gregersen'
+- 'Støttet af: Statens Kunstfond'
 
 ---
 Work-in-progress visning af _Something to Hold_ i Dance Cooperative, maj 2021. Visningerne afsluttede et længere kunstnerisk udviklingsarbejde støttet af Statens Kunstfond mellem 2019-2021. Projektet har nu modtaget støtte til produktion. _Something to Hold_ får premiere i 2022.
