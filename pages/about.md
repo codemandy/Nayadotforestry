@@ -1,5 +1,4 @@
 ---
-contactlist: MAIL    /    INSTAGRAM
 layout: about
 title: About
 permalink: "/about"
