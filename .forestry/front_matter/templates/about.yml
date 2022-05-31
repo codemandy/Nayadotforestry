@@ -2,6 +2,15 @@
 label: About
 hide_body: false
 fields:
+- name: contactlist
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Contactlist
 - name: upcominglist
   type: list
   config:
@@ -23,12 +32,3 @@ fields:
   name: section
   label: section
   hidden: true
-- name: contactlist
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Contactlist
