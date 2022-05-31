@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: choreography
+categories: collective-works
 vimeoid: 
 title: SLUTTY HJERTE
 date: 2018-11-30T23:00:00.000+00:00
