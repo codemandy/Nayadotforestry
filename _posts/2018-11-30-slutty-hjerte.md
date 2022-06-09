@@ -10,7 +10,7 @@ creditslist:
 - DANSEatelier i december 2018
 
 ---
-<div class=center" markdown="1">**_Velkommen til det klichefyldte og nemme._  
+<div markdown="1">**_Velkommen til det klichefyldte og nemme._  
 _Små ting; som gamle malerier, en rose_  
 _holder fast i både følelser, tid og mange historier.  
 Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.  
