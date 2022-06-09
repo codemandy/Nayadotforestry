@@ -20,6 +20,8 @@ Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.
 
 </div>
 
+<div markdown="1"><p>_Åh længsel, åh slutty slutty hjerte</p> _</div>
+
 ![](/assets/img/uploads/slutty_hjerte_01.jpeg)
 
 ![](/assets/img/uploads/slutty_hjerte_04.jpeg)
