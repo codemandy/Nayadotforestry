@@ -37,6 +37,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: tag_line
+  type: text
+  config:
+    required: false
+  label: tag line
+  description: Short description for search machine
 - type: datetime
   name: date
   label: date
