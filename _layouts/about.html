@@ -7,14 +7,15 @@ layout: default_small
     <div class="about-content">
     {{ content }}
   <br>
-
-  <div class="upcoming-title "><p class="upcoming-title">UPCOMING</p>
-    <ul >
-      {% for upcoming in page.upcominglist %}
-        <li id="upcoming-list">{{ upcoming }}</li>
-      {% endfor %}
-    </ul>
-  </div>
+    <div class="upcoming-title "><p class="upcoming-title">UPCOMING</p>
+      <div>
+        <ul >
+        {% for upcoming in page.upcominglist %}
+          <li id="upcoming-list">{{ upcoming }}</li>
+        {% endfor %}
+      </ul>
+      </div>
+    </div>
   </div>
   {% include footer.html %}
 </section>
