@@ -10,11 +10,11 @@ creditslist:
 - DANSEatelier i december 2018
 
 ---
-<p class="center"> _Velkommen til det klichefyldte og nemme._  
+<p class="center">{{ _Velkommen til det klichefyldte og nemme._  
 _Små ting; som gamle malerier, en rose_  
 _holder fast i både følelser, tid og mange historier.  
 Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.  
-Åh længsel, åh slutty slutty hjerte_</p>
+Åh længsel, åh slutty slutty hjerte_' | markdownify }}</p>
 
 ![](/assets/img/uploads/slutty_hjerte_01.jpeg)
 
