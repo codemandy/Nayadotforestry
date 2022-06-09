@@ -16,6 +16,10 @@ _holder fast i både følelser, tid og mange historier.
 Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.  
 Åh længsel, åh slutty slutty hjerte </center>_
 
+_Åh længsel, åh slutty slutty hjerte_
+
+{: style="text-align: center"}
+
 ![](/assets/img/uploads/slutty_hjerte_01.jpeg)
 
 ![](/assets/img/uploads/slutty_hjerte_04.jpeg)
