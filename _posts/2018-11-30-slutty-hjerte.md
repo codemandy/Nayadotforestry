@@ -10,17 +10,11 @@ creditslist:
 - DANSEatelier i december 2018
 
 ---
-<div markdown="1">
-
-_Velkommen til det klichefyldte og nemme.  
+Velkommen til det klichefyldte og nemme.  
 Små ting; som gamle malerier, en rose  
 holder fast i både følelser, tid og mange historier.  
 Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.  
-Åh længsel, åh slutty slutty hjerte _
-
-</div>
-
-<div markdown="1"><p>_Åh længsel, åh slutty slutty hjerte</p> _</div>
+Åh længsel, åh slutty slutty hjerte 
 
 ![](/assets/img/uploads/slutty_hjerte_01.jpeg)
 
