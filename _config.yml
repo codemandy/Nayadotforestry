@@ -23,12 +23,16 @@ url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & prot
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
 
+# plugins
+plugins:
+  - jekyll-seo-tag
+
 # Enable section IDs in frontmatter, useful for identifying current page
 # (used as a hook for styling etc)
 section: true
 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
-netlifycms: true
+netlifycms: false
 
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: false
