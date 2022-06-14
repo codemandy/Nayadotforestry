@@ -53,14 +53,20 @@ header {
 
   .nav-3 {
     display: flex;
-    margin-left: 1rem;
+    // margin-left: 1rem;
     justify-content: center;
-  }
+    @media screen and (min-width: $screen-sm-min) {
+      padding-left: 2rem;
+   padding-right: 2rem;
+    }
+   padding-left: 1rem;
+   padding-right: 1rem;
 
   .nav-4 {
     display: flex;
-    justify-content: flex-start;
-    margin-left: 1rem;
+    // justify-content: flex-start;
+    // margin-left: 1rem;
+    // padding-left: 0.8rem;
   }
 
   .nav-5 {
