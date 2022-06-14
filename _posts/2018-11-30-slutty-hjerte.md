@@ -1,20 +1,21 @@
 ---
 layout: post
 categories: collective-works
-vimeoid:
+vimeoid: 
 title: SLUTTY HJERTE
 date: 2018-11-30T23:00:00.000+00:00
 image: "/assets/img/uploads/slutty_hjerte_02.jpeg"
 creditslist:
 - Koreografisk værk af Emilie Gregersen, Naya Moll Olsen and Anna Lea Ourø
 - DANSEatelier i december 2018
+tagline: ''
 
 ---
-_Velkommen til det klichefyldte og nemme._
-_Små ting; som gamle malerier, en rose_
-_holder fast i både følelser, tid og mange historier.
-Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.
-Åh længsel, åh slutty slutty hjerte_
+_Velkommen til det klichefyldte og nemme.<br>_
+_Små ting; som gamle malerier, en rose<br>_
+_holder fast i både følelser, tid og mange historier.<br>
+Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.<br>
+Åh længsel, åh slutty slutty hjerte<br>_
 
 ![](/assets/img/uploads/slutty_hjerte_01.jpeg)
 
