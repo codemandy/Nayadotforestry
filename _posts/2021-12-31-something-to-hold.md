@@ -14,10 +14,6 @@ tagline: 'Something To Hold er et coming-of-age værk i spændet mellem en konce
   og koreografer Emilie Gregersen og Naya Moll. '
 
 ---
-**S o m e t h i n g T o H o l d**
-
-_(kommende værk)_
-
 _Something To Hold_ er et coming-of-age værk i spændet mellem en koncert og en danseforestilling. Værket skabes og performes af komponist, Marie Louise Buch og koreografer Emilie Gregersen og Naya Moll. _Something To Hold_ er et poetisk og punket genreeksperiment, som tager udgangspunkt i den elektriske guitar som instrument, objekt og scenografi. Værket kan ses som et visuelt album, iscenesat i én lang koreografi. Der veksles mellem sange, udstrakte lydbilleder, dragende danse, hooks og riffs, som tager beskueren med på en rejse gennem cinematiske scener og henførende stemninger.
 
 _Something To Hold_ har premiere på spillestedet ALICE i København i marts 2024. ALICE co-producerer _Something To Hold_ både til deres eget program, samt til en national turné.
