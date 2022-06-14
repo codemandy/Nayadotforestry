@@ -17,4 +17,4 @@ As a dramaturge, Naya is working closely together with the choreographer Emilie 
 
 Naya has worked as a performer for artists such as Marina Abramovic, Lilibeth Cuenca Rasmussen, and currently with Nana Francisca Schottländer.
 
-Naya is a part of Dance Cooperative in Copenhagen, a self-organized collective space for performance and intersectional practices. She is board member of DANSEatelier, and board member and editor of “Kvinde Kend Din Krop“, a fund working with public health information about the body, gender, sex and culture.
+Naya is a part of Dance Cooperative in Copenhagen, a self-organized collective space for performance and intersectional practices. She is board member of DANSEatelier, and board member and editor of “Kvinde Kend Din Krop”, a fund working with public health information about the body, gender, sex and culture.
