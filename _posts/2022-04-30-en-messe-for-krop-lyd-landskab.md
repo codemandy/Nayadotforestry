@@ -34,14 +34,6 @@ Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 
 ![](/assets/img/uploads/en_messe_04.jpeg)
 
-![](/assets/img/uploads/en_messe_03.jpeg)
-
 ![](/assets/img/uploads/en_messe_05.jpeg)
-
-![](/assets/img/uploads/en_messe_08.jpeg)
-
-![](/assets/img/uploads/en_messe_08.jpeg)
-
-![](/assets/img/uploads/en_messe_06.jpeg)
 
 ![](/assets/img/uploads/en_messe_brev.jpeg)
