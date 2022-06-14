@@ -4,7 +4,8 @@ header {
   // min-height: 4rem;
   min-width: 100%;
 
-  @media screen and (min-width: $screen-sm-min) {
+  @media screen and (min-width: $screen-xs-min) {
+    background-color: $grey-bg-color;
     position: fixed;
     top: 0;
     left: 0;
@@ -83,9 +84,6 @@ header > nav {
     // padding-top: 1rem;
     margin: 1rem 0;
 
-    @media screen and (min-width: $screen-sm-min) {
-
-    }
   }
 
   @media screen and (min-width: $screen-sm-min) {

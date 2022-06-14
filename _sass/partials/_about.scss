@@ -4,8 +4,8 @@
 
 .post-container-about {
     padding: 0 2rem;
-    font-size: 14px;
-    line-height: 18px;
+    font-size: 16px;
+    line-height: 20px;
     margin-top: 6rem;
     @media screen and (min-width: $screen-sm-min) {
       // width: 60vw;
@@ -14,8 +14,8 @@
       display: flex;
       justify-content: center;
       margin-top: 10rem;
-      font-size: 16px;
-      line-height: 20px;
+      // font-size: 16px;
+      // line-height: 20px;
      }
 
 
@@ -23,18 +23,22 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        text-transform: uppercase;
+
+        // text-transform: uppercase;
       }
 
+
+
       #upcoming-list {
-        font-size: 13px;
+        font-size: 16px;
+        font-weight: 20px;
         display: block;
         overflow-y: scroll;
         @media screen and (min-width: $screen-sm-min) {
-          font-size: 14px;
+          font-size: 16px;
+          font-weight: 20px;
           text-align: left;
           display: flex;
-          text-transform: uppercase;
           margin-left: 1rem;
 
 
