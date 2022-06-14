@@ -26,7 +26,7 @@ Værket er en meditation over den cykliske forbundethed i alt, og væver mennesk
 
 Det er projektets ambition at skabe et æstetisk refleksionsrum både for indlagte, pårørende og plejepersonalet. Værket er desuden åbent for offentligheden.
 
-Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020-2021. I 2023/2024 skal værket transformeres til visning på Hospice Svanevig på Lolland, Hospice Djursland på Syddjurs, og Hospice Gudenå i Midtjylland.
+Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020–2021. I 2023/2024 skal værket transformeres til visning på Hospice Svanevig på Lolland, Hospice Djursland på Syddjurs, og Hospice Gudenå i Midtjylland.
 
 Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 
