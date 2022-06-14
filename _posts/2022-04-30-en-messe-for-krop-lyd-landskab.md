@@ -1,7 +1,7 @@
 ---
 layout: post-video
 categories: choreography
-title: En Messe for Krop, Lyd & Landskab
+title: EN MESSE FOR KROP, LYD & LANDSKAB
 date: 2022-04-30T22:00:00.000+00:00
 image: "/assets/img/uploads/en_messe_01.jpeg"
 youtubeId: ''
