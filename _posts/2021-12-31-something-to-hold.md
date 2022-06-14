@@ -8,6 +8,7 @@ image: "/assets/img/uploads/something_to_hold_01.jpeg"
 creditslist:
 - 'Komposition, koreografi og performance: Naya Moll, Marie Louise Buch og Emilie
   Gregersen'
+- "<br>"
 - 'Støttet af: Statens Kunstfond, William Demant'
 tagline: 'Something To Hold er et coming-of-age værk i spændet mellem en koncert og
   en danseforestilling. Værket skabes og performes af komponist, Marie Louise Buch
