@@ -32,12 +32,9 @@ header {
 
 
   //NAVIGATION LARGE SCREENS
-  @media screen and (min-width: $screen-sm-min) {
+  @media screen and (min-width: $screen-md-min) {
   position: fixed;
-  // min-height: 4rem;
   width: 100%;
-  // grid-column: full;
-  // display: grid;
   display: flex;
   padding-bottom: 0;
 
@@ -82,12 +79,11 @@ header > nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0px 0px;
-    // padding-top: 1rem;
     margin: 1rem 0;
 
   }
 
-  @media screen and (min-width: $screen-sm-min) {
+  @media screen and (min-width: $screen-md-min) {
     min-width: 100%;
     background-color: $grey-bg-color;
 
