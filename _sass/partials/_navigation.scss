@@ -1,17 +1,12 @@
 // NAVBAR
 
 header {
-  // min-height: 4rem;
+  min-height: 4rem;
   min-width: 100%;
-
-  @media screen and (min-width: $screen-xs-min) {
-    background-color: $grey-bg-color;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 999;
-  }
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
 
   .nav-1 {
     display: flex;
@@ -32,9 +27,12 @@ header {
 
 
   //NAVIGATION LARGE SCREENS
-  @media screen and (min-width: $screen-md-min) {
+  @media screen and (min-width: $screen-sm-min) {
   position: fixed;
+  min-height: 4rem;
   width: 100%;
+  // grid-column: full;
+  // display: grid;
   display: flex;
   padding-bottom: 0;
 
@@ -53,20 +51,20 @@ header {
 
   .nav-3 {
     display: flex;
-    // margin-left: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
     justify-content: center;
     @media screen and (min-width: $screen-sm-min) {
       padding-left: 2rem;
-   padding-right: 2rem;
+      padding-right: 2rem;
     }
-   padding-left: 1rem;
-   padding-right: 1rem;
+
+
+  }
 
   .nav-4 {
     display: flex;
-    // justify-content: flex-start;
-    // margin-left: 1rem;
-    // padding-left: 0.8rem;
+    justify-content: flex-start;
   }
 
   .nav-5 {
@@ -85,11 +83,14 @@ header > nav {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0px 0px;
-    margin: 1rem 0;
+    padding-top: 1rem;
 
+    @media screen and (min-width: $screen-sm-min) {
+
+    }
   }
 
-  @media screen and (min-width: $screen-md-min) {
+  @media screen and (min-width: $screen-sm-min) {
     min-width: 100%;
     background-color: $grey-bg-color;
 
