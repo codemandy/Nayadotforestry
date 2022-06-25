@@ -1,7 +1,7 @@
 // NAVBAR
 
 header {
-  min-height: 4rem;
+  min-height: 3rem;
   min-width: 100%;
   position: fixed;
   top: 0;
@@ -30,7 +30,7 @@ header {
   //NAVIGATION LARGE SCREENS
   @media screen and (min-width: $screen-sm-min) {
   position: fixed;
-  min-height: 4rem;
+  min-height: 3rem;
   width: 100%;
   display: flex;
   padding-bottom: 0;
