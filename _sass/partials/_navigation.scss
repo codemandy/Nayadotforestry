@@ -1,7 +1,7 @@
 // NAVBAR
 
 header {
-  min-height: 4rem;
+  min-height: 3rem;
   min-width: 100%;
   position: fixed;
   top: 0;
@@ -22,18 +22,16 @@ header {
 
   .nav-5 {
     display: flex;
-      justify-content: flex-end;
-      margin-right: 20px;
+    justify-content: flex-end;
+    margin-right: 20px;
   }
 
 
   //NAVIGATION LARGE SCREENS
   @media screen and (min-width: $screen-sm-min) {
   position: fixed;
-  min-height: 4rem;
+  min-height: 3rem;
   width: 100%;
-  // grid-column: full;
-  // display: grid;
   display: flex;
   padding-bottom: 0;
 

@@ -10,7 +10,7 @@
 
   img {
     width: 100%;
-    padding: 1rem 0;
+    padding: 0.3rem 0;
     @media screen and (min-width: $screen-sm-min) {
       width: 75%;
     }
@@ -20,13 +20,13 @@
   }
 
 
-  .page-content {
-    // display: flex;
-    // flex-direction: column;
-    // justify-content: center;
-    // margin: 0 auto;
-    // text-align: center;
-  }
+  // .page-content {
+  //   // display: flex;
+  //   // flex-direction: column;
+  //   // justify-content: center;
+  //   // margin: 0 auto;
+  //   // text-align: center;
+  // }
 
 
   .image-block {
@@ -36,7 +36,6 @@
   }
 
   figure {
-    margin-top: 2rem;
     width: 100%;
     display: block;
     margin-left: auto;
