@@ -21,4 +21,6 @@ _Something To Hold_ har premiere på spillestedet ALICE i København i marts 202
 
 _Something To Hold_ udspringer fra et længerevarende udviklingsprojekt, som modtog udviklingsstøtte fra Statens Kunstfond i 2019, under navnet _Syntese mellem Koncert og Performance_. Dette udviklingsprojekt blev afsluttet i maj 2021, med en række laboratorievisninger i Dance Cooperative, under titlen _Something To Hold_, som også er titlen på det kommende værk.
 
+<br>
+
 ![](/assets/img/uploads/something_to_hold_02.jpeg)
