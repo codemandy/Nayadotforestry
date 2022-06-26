@@ -14,19 +14,7 @@
     @media screen and (min-width: $screen-sm-min) {
       width: 75%;
     }
-    @media screen and (min-width: $screen-md-min) {
-    //  width: 70%
-    }
   }
-
-
-  // .page-content {
-  //   // display: flex;
-  //   // flex-direction: column;
-  //   // justify-content: center;
-  //   // margin: 0 auto;
-  //   // text-align: center;
-  // }
 
 
   .image-block {
@@ -56,18 +44,19 @@
       max-width: 500px;
       justify-content: center;
       margin: 0 auto;
-  }
+    }
       @media screen and (min-width: $screen-md-min) {
       max-width: 600px;
+    }
+
   }
 
-}
   .page-title {
     padding: 1.5rem 3rem 1rem 3rem;
     text-align: center;
     display: flex;
     justify-content: center;
-  }
+    }
 
 
     .reviews-title {
@@ -87,18 +76,21 @@
     }
 
 
-#credits-list {
-  max-width: 700px;
-  margin: 0 auto;
-  @media screen and (min-width: $screen-sm-min) {
-  padding-top: 1rem;
-  }
+  #credits-list {
+    max-width: 500px;
+    margin: 0 auto;
+    @media screen and (min-width: $screen-sm-min) {
+    max-width: 700px;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    }
 
-  li {
-    line-height: 20px;
-    // padding: 1rem;
+    li {
+      line-height: 20px;
+      // padding: 1rem;
+    }
   }
-}
 
 
 .center {
