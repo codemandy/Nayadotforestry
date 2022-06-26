@@ -41,12 +41,12 @@
     @media screen and (min-width: $screen-sm-min) {
       padding: 1rem;
       word-wrap: break-word;
-      max-width: 500px;
+      max-width: 600px;
       justify-content: center;
       margin: 0 auto;
     }
       @media screen and (min-width: $screen-md-min) {
-      max-width: 600px;
+      // max-width: 600px;
     }
 
   }
@@ -80,7 +80,7 @@
     max-width: 500px;
     margin: 0 auto;
     @media screen and (min-width: $screen-sm-min) {
-    max-width: 700px;
+    max-width: 600px;
     padding-top: 1rem;
     padding-bottom: 2rem;
     text-align: center;

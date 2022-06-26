@@ -23,13 +23,16 @@
         flex-direction: column;
         justify-content: center;
         padding-bottom: 2rem;
-        width: 600px;
+        padding-top: -2rem;
+        @media screen and (min-width: $screen-sm-min) {
         margin-left: auto;
         margin-right: auto;
+
+        }
       }
 
       .credits-title-upcoming {
-        padding: 0.5rem 3rem 2rem 3rem;
+        padding: 0rem 3rem 2rem 3rem;
         text-align: center;
         display: flex;
         justify-content: center;
@@ -42,23 +45,23 @@
       #upcoming-list {
         font-size: 16px;
         font-weight: 20px;
-        display: block;
         overflow-y: scroll;
+
         @media screen and (min-width: $screen-sm-min) {
           font-size: 16px;
           font-weight: 20px;
-          margin-left: 1rem;
         }
       }
 
       .upcoming-ul {
-        // display: flex;
-        // flex-direction: column;
-        width: 100%;
+        max-width: 600px;
         margin: 0 auto;
+
 
         li {
           text-align: left;
+          word-wrap: break-word;
+          // max-width: 600px;
         }
 
       }
@@ -79,7 +82,7 @@
     align-items: center;
     justify-content: center;
     color: $text-color;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
 
     li {
     list-style: none;
