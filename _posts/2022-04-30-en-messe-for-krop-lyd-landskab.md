@@ -30,6 +30,8 @@ Værket blev skabt til Hospice Anker Fjord i Vestjylland i 2020–2021. I 2023/2
 
 Den fremtidige vision er, at værket skal udbredes til alle hospicer i Danmark.
 
+<br>
+
 ![](/assets/img/uploads/en_messe_02.jpeg)
 
 ![](/assets/img/uploads/en_messe_04.jpeg)
