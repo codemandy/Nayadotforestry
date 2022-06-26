@@ -6,16 +6,16 @@ layout: default_small
   <div class="post-container-about">
     <div class="about-content">
     {{ content }}
-  <br>
-  <p class="credits-title-upcoming">UPCOMING</p>
-    <div class="upcoming-title ">
-      <div>
+    <br>
+    <p class="credits-title-upcoming">UPCOMING</p>
+    <div class="about-content upcoming-title ">
+
         <ul class="upcoming-ul" >
         {% for upcoming in page.upcominglist %}
           <li id="upcoming-list">{{ upcoming }}</li>
         {% endfor %}
       </ul>
-      </div>
+
     </div>
   </div>
   {% include footer.html %}
