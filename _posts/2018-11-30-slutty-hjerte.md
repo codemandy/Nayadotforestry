@@ -12,9 +12,7 @@ tagline: ''
 
 ---
 
-<p class="center">  
-<br>_Velkommen til det klichefyldte og nemme.<br>Små ting; som gamle malerier, en rose<br>holder fast i både følelser, tid og mange historier.<br>Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.<br> Åh længsel, åh slutty slutty hjerte  
-_</p>
+<p class="center">_Velkommen til det klichefyldte og nemme.<br>Små ting; som gamle malerier, en rose<br>holder fast i både følelser, tid og mange historier.<br>Vi masserer en fortid og en fremtid ind i vores fine, groteske hjerter.<br> Åh længsel, åh slutty slutty hjerte_</p>
 
 _<br><br>_
 
