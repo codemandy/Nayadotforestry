@@ -7,7 +7,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  background-color: $grey-bg-color;
+  // background-color: $grey-bg-color;
 
   .nav-1 {
     display: flex;
@@ -91,7 +91,7 @@ header > nav {
 
   @media screen and (min-width: $screen-sm-min) {
     min-width: 100%;
-    background-color: $grey-bg-color;
+    // background-color: $grey-bg-color;
 
     ul {
       // flexbox is better than grid for distributing an unknown qty of children
