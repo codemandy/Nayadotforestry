@@ -31,8 +31,6 @@ plugins:
 # (used as a hook for styling etc)
 section: true
 
-# set to 'true' to enable Netlify CMS (/admin) in production builds
-netlifycms: false
 
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: false
