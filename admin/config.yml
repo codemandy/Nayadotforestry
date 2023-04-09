@@ -1,0 +1,54 @@
+backend:
+  name: git-gateway
+  branch: Patch-1 # Branch to update (optional; defaults to main)
+
+media_folder: "src/assets/images" # Media files will be stored in the repo under images/uploads
+public_folder: "assets/images" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "Films"
+    label: "Films"
+    description: "All Films"
+    folder: "src/pages/Films"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Kunde", name: "kunde", widget: "string" }
+      - { label: "Vimeo Id", name: "vimeo_id", widget: "number" }
+      - { label: "Order (mindst først)", name: "order", widget: "number" }
+
+  - name: "Trailers"
+    label: "Trailers"
+    description: "All Trailers"
+    folder: "src/pages/Trailers"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Vimeo Id", name: "vimeo_id", widget: "number" }
+      - { label: "Order (mindst først)", name: "order", widget: "number" }
+
+  - name: "Admin"
+    label: "Admin"
+    files:
+      - label: "Om os"
+        name: "om_os"
+        file: "src/sections/om_os.md"
+        fields:
+          - { label: "Baghaven Film", name: "baghaven_film", widget: "text" }
+          - { label: "Avatar Jakob", name: "avatar_jakob", widget: "image" }
+          - { label: "Jakob", name: "jakob", widget: "text" }
+          - { label: "Jakob Info", name: "jakob_info", widget: "text" }
+          - { label: "Avatar Emil", name: "avatar_emil", widget: "image" }
+          - { label: "Emil", name: "emil", widget: "text" }
+          - { label: "Emil Info", name: "emil_info", widget: "text" }
+
+      - label: "Kontakt"
+        name: "Kontakt"
+        file: "src/sections/kontakt.md"
+        fields:
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Email link", name: "email_link", widget: "string" }
+          - { label: "Jakob telefon", name: "jakob_telefon", widget: "string" }
+          - { label: "Emil telefon", name: "emil_telefon", widget: "string" }
+          - { label: "Instagram", name: "instagram_link", widget: "string" }
+          - { label: "Footer", name: "footer", widget: "string" }
